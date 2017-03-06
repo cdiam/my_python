@@ -679,3 +679,30 @@ def join_strings(words):
 
 
 print join_strings(n)
+
+m = [1, 2, 3]
+n = [4, 5, 6]
+
+# Add your code here!
+def join_lists(x,y):
+    return x+y
+
+
+
+
+print join_lists(m, n)
+# You want this to print [1, 2, 3, 4, 5, 6]
+
+
+
+n = [[1, 2, 3], [4, 5, 6, 7, 8, 9]]
+# Add your function here
+def flatten(lists):
+    results = []
+    for numbers in lists:
+        for item in numbers:
+            results.append(item)
+    return results
+
+
+print flatten(n)
