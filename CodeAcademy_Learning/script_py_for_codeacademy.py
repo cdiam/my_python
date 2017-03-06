@@ -568,3 +568,73 @@ n = [1, 3, 5]
 k = n[1]*5
 n[1]=k
 print n
+
+
+n = [1, 3, 5]
+# Remove the first item in the list here
+n.pop(0)
+print n
+
+
+m = 5
+n = 13
+# Add add_function here!
+
+def add_function(x,y):
+
+    adding_number = x + y
+
+    return adding_number
+
+print add_function(m, n)
+
+
+n = "Hello"
+# Your function here!
+
+def string_function(s):
+    return s + "world"
+
+
+print string_function(n)
+
+
+
+def list_function(x):
+    return x[1]
+
+n = [3, 5, 7]
+print list_function(n)
+
+
+#
+#Change list_function so that:
+#Add 3 to the item at index one of the list.
+#Store the result back into index one.
+#eturn the list.
+
+def list_function(x):
+    x[1] = x[1]+3
+    return x
+
+n = [3, 5, 7]
+print list_function(n)
+
+
+n = [3, 5, 7]
+# Add your function here
+def list_extender(lst):
+    lst.append(9)
+    return lst
+
+
+print list_extender(n)
+
+
+n = [3, 5, 7]
+
+def print_list(x):
+    for i in range(0, len(x)):
+        print x[i]
+
+print print_list(n)
