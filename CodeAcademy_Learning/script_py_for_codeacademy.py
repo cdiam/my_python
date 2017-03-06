@@ -561,3 +561,10 @@ for key in prices:
     total = total + money
 
 print total
+
+
+n = [1, 3, 5]
+# Do your multiplication here
+k = n[1]*5
+n[1]=k
+print n
