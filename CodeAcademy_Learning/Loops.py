@@ -70,3 +70,71 @@ while guesses_left > 0 :
 
 else:
     print "You lose. The number was %d" % random_number
+
+
+
+thing = "spam!"
+
+for c in thing:
+    print c
+
+word = "eggs!"
+
+# Your code here!
+
+for letter in word:
+    print letter
+
+
+phrase = "A bird in the hand..."
+
+# Add your for loop
+
+for char in phrase:
+    if char =='A' or char == 'a':
+        print 'X',
+
+        '''
+       The , character after our print statement means that our next print statement keeps printing on the same line.
+
+        '''
+    else:
+        print char,
+
+
+
+
+#Don't delete this print statement!
+print
+
+
+numbers  = [7, 9, 12, 54, 99]
+
+print "This list contains: "
+
+for num in numbers:
+    print num
+
+# Add your loop below!
+
+for number in numbers:
+    print number**2
+
+
+##Dictionary print key and value
+
+d = {'a': 'apple', 'b': 'berry', 'c': 'cherry'}
+
+for key in d:
+    # Your code here!
+
+    print key, d[key]
+
+
+
+
+choices = ['pizza', 'pasta', 'salad', 'nachos']
+
+print 'Your choices are:'
+for index, item in enumerate(choices):
+    print index+1, item
