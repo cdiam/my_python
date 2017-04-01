@@ -20,3 +20,13 @@ def is_int(x):
         return True
     else:
         return False
+
+
+
+def digit_sum(x):
+  string_x = str(x)
+  total = 0
+  for char in string_x:
+    total += int(char)
+  return total
+    
