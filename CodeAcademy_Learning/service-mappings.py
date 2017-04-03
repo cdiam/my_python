@@ -1,3 +1,4 @@
+#!/usr/bin/python
 
 #Read the csv file of the service mapping
 lines = open ('service-mappings.txt', 'r').read().splitlines()
