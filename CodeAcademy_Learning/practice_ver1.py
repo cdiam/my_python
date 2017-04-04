@@ -55,3 +55,13 @@ def is_prime(x):
             return True
     elif x == 2 or x == 3 :
         return True
+
+
+        
+def reverse(text):
+    rev =""
+    for i in text:
+        rev = i + rev
+
+    return rev
+print reverse("cat")
