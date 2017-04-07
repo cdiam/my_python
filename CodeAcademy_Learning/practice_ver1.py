@@ -123,3 +123,12 @@ def purify(numbers):
     return num
 
 print purify([1,2,3,4,5,6])
+
+
+ def product(lst):
+    total = 1
+    for i in lst:
+        total *= i
+    return total
+
+print product([1,2,3,4])
