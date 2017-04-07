@@ -132,3 +132,12 @@ print purify([1,2,3,4,5,6])
     return total
 
 print product([1,2,3,4])
+
+def remove_duplicates(lst):
+    numbers = []
+    for n in lst:
+        if n not in numbers:
+            numbers.append(n)
+    return numbers
+
+print remove_duplicates([1,2,2,2,3,4,5])
