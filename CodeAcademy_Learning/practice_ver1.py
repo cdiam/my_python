@@ -103,3 +103,23 @@ def censor(text,word):
     return censored
 
 print censor("hello my name is Constantine, hello","hello")
+
+
+def count(seq, item):
+    total = 0
+    for n in seq:
+        if n == item:
+            total = total +1
+    return total
+
+
+print count([1,5,4,3,2,5,5,5,5,5],5)
+
+def purify(numbers):
+    num = []
+    for item in numbers:
+        if item%2 == 0:
+            num.append(item)
+    return num
+
+print purify([1,2,3,4,5,6])
