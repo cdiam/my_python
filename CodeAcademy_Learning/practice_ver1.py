@@ -57,7 +57,7 @@ def is_prime(x):
         return True
 
 
-        
+
 def reverse(text):
     rev =""
     for i in text:
@@ -65,3 +65,41 @@ def reverse(text):
 
     return rev
 print reverse("cat")
+
+def anti_vowel(text):
+    result = text
+    for char in text:
+        if char in "aeiouAEIOU":
+            result = result.replace(char, '')
+    return result
+
+print anti_vowel("Hey look Y Words!")
+
+
+#scrabble_score
+
+score = {"a": 1, "c": 3, "b": 3, "e": 1, "d": 2, "g": 2,
+         "f": 4, "i": 1, "h": 4, "k": 5, "j": 8, "m": 3,
+         "l": 1, "o": 1, "n": 1, "q": 10, "p": 3, "s": 1,
+         "r": 1, "u": 1, "t": 1, "w": 4, "v": 4, "y": 4,
+         "x": 8, "z": 10}
+
+
+
+def scrabble_score(word):
+    word = word.lower()
+    final_score = 0
+
+    for i in word:
+        final_score += score[i]
+
+    return final_score
+
+print scrabble_score("hello")
+
+def censor(text,word):
+    asterisks = "*" * len(word)
+    censored = text.replace(word, asterisks)
+    return censored
+
+print censor("hello my name is Constantine, hello","hello")
