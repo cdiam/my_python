@@ -141,3 +141,17 @@ def remove_duplicates(lst):
     return numbers
 
 print remove_duplicates([1,2,2,2,3,4,5])
+
+
+def median(lst):
+    lst = sorted(lst)
+    if len(lst) < 1:
+            return None
+    if len(lst) %2 == 1:
+            return lst[((len(lst)+1)/2)-1]
+    else:
+            return float(sum(lst[(len(lst)/2)-1:(len(lst)/2)+1]))/2.0
+
+print median([1,2,3,4,5])
+
+print median([1,1,2])
