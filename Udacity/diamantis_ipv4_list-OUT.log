@@ -1,0 +1,3792 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.211.144.0 - 103.211.147.255'
+
+% Abuse contact for '103.211.144.0 - 103.211.147.255' is 'abuse@digitalnetwork.online'
+
+inetnum:        103.211.144.0 - 103.211.147.255
+netname:        DIGITALNETWORK-BD
+descr:          Mohammad Ehteshamul Haque t/a Digital Network
+country:        BD
+org:            ORG-DN2-AP
+admin-c:        DNA18-AP
+tech-c:         DNA18-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-DIGITALNETWORK-BD
+mnt-routes:     MAINT-DIGITALNETWORK-BD
+mnt-irt:        IRT-DIGITALNETWORK-BD
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+last-modified:  2017-08-30T07:16:07Z
+source:         APNIC
+
+irt:            IRT-DIGITALNETWORK-BD
+address:        27, Nazimuddin Road, Dhaka Dhaka 1100
+e-mail:         abuse@digitalnetwork.online
+abuse-mailbox:  abuse@digitalnetwork.online
+admin-c:        DNA18-AP
+tech-c:         DNA18-AP
+auth:           # Filtered
+mnt-by:         MAINT-DIGITALNETWORK-BD
+last-modified:  2016-03-15T05:32:56Z
+source:         APNIC
+
+organisation:   ORG-DN2-AP
+org-name:       Digital Network
+country:        BD
+address:        27, Nazimuddin Road
+phone:          +8801746707202
+e-mail:         abuse@digitalnetwork.online
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2017-08-20T22:56:46Z
+source:         APNIC
+
+role:           Digital Network administrator
+address:        27, Nazimuddin Road, Dhaka Dhaka 1100
+country:        BD
+phone:          +8801746707202
+fax-no:         +8801746707202
+e-mail:         abuse@digitalnetwork.online
+admin-c:        DNA18-AP
+tech-c:         DNA18-AP
+nic-hdl:        DNA18-AP
+mnt-by:         MAINT-DIGITALNETWORK-BD
+last-modified:  2016-03-15T05:32:54Z
+source:         APNIC
+
+% Information related to '103.211.144.0/22AS135163'
+
+route:          103.211.144.0/22
+descr:          DIGITALNETWORK-BD
+origin:         AS135163
+mnt-by:         MAINT-DIGITALNETWORK-BD
+last-modified:  2016-03-18T23:28:14Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-UK4)
+
+
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.arin.net
+
+inetnum:      104.0.0.0 - 104.255.255.255
+organisation: ARIN
+status:       ALLOCATED
+
+whois:        whois.arin.net
+
+changed:      2011-02
+source:       IANA
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+
+#
+# Query terms are ambiguous.  The query is assumed to be:
+#     "n + 104.166.114.0"
+#
+# Use "?" to get help.
+#
+
+
+# start
+
+NetRange:       104.166.114.0 - 104.166.114.255
+CIDR:           104.166.114.0/24
+NetName:        ROYA
+NetHandle:      NET-104-166-114-0-1
+Parent:         ROYA (NET-104-166-96-0-1)
+NetType:        Reassigned
+OriginAS:       
+Customer:       Roya Hosting (THGR) (C05527940)
+RegDate:        2014-12-15
+Updated:        2014-12-15
+Ref:            https://rdap.arin.net/registry/ip/104.166.114.0
+
+
+CustName:       Roya Hosting (THGR)
+Address:        7900 E. Union Ave #1100
+City:           Thessaloniki
+StateProv:      CENTRAL MACEDONIA
+PostalCode:     54640
+Country:        GR
+RegDate:        2014-12-15
+Updated:        2018-02-21
+Ref:            https://rdap.arin.net/registry/entity/C05527940
+
+OrgTechHandle: TSD48-ARIN
+OrgTechName:   Technical Support Department
+OrgTechPhone:  +1-614-438-2641 
+OrgTechEmail:  techsupport@oppobox.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/TSD48-ARIN
+
+OrgAbuseHandle: AHD8-ARIN
+OrgAbuseName:   Abuse Help Desk
+OrgAbusePhone:  +1-614-438-2641 
+OrgAbuseEmail:  abuse.desk@oppobox.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/AHD8-ARIN
+
+# end
+
+
+# start
+
+NetRange:       104.166.96.0 - 104.166.127.255
+CIDR:           104.166.96.0/19
+NetName:        ROYA
+NetHandle:      NET-104-166-96-0-1
+Parent:         NET104 (NET-104-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS54334
+Organization:   OppoBox LLC (OPPOB)
+RegDate:        2014-08-19
+Updated:        2018-02-21
+Ref:            https://rdap.arin.net/registry/ip/104.166.96.0
+
+
+OppoBox LLC (OPPOB)
+
+
+OrgTechHandle: TSD48-ARIN
+OrgTechName:   Technical Support Department
+OrgTechPhone:  +1-614-438-2641 
+OrgTechEmail:  techsupport@oppobox.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/TSD48-ARIN
+
+OrgAbuseHandle: AHD8-ARIN
+OrgAbuseName:   Abuse Help Desk
+OrgAbusePhone:  +1-614-438-2641 
+OrgAbuseEmail:  abuse.desk@oppobox.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/AHD8-ARIN
+
+# end
+
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.ripe.net
+
+inetnum:      109.0.0.0 - 109.255.255.255
+organisation: RIPE NCC
+status:       ALLOCATED
+
+whois:        whois.ripe.net
+
+changed:      2009-01
+source:       IANA
+
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '109.178.0.0 - 109.178.63.255'
+
+% Abuse contact for '109.178.0.0 - 109.178.63.255' is 'abuse@cosmote.gr'
+
+inetnum:        109.178.0.0 - 109.178.63.255
+netname:        COSMOTE
+descr:          Cosmote Mobile Telecommunications S.A.
+descr:          Cosmote Internet Services
+descr:          APN internet
+country:        GR
+admin-c:        CIA19-RIPE
+tech-c:         CIA19-RIPE
+status:         ASSIGNED PA
+mnt-by:         COSMOTE-MNT
+created:        2011-07-29T09:39:43Z
+last-modified:  2011-07-29T09:39:43Z
+source:         RIPE
+
+role:           COSMOTE IP ADM
+address:        COSMOTE S.A.
+address:        Ikarou 1 & Agiou Louka 1
+address:        19002, Paiania, Athens
+address:        Greece
+admin-c:        ANAN-RIPE
+admin-c:        NK2937-RIPE
+tech-c:         GM11696-RIPE
+tech-c:         BYPE-RIPE
+mnt-by:         COSMOTE-MNT
+abuse-mailbox:  abuse@cosmote.gr
+nic-hdl:        CIA19-RIPE
+created:        2009-11-16T11:21:50Z
+last-modified:  2014-01-08T10:40:04Z
+source:         RIPE # Filtered
+
+% Information related to '109.178.0.0/16AS29247'
+
+route:          109.178.0.0/16
+descr:          Cosmote Mobile Telecommunication S.A.
+descr:          Cosmote Internet Services
+origin:         AS29247
+mnt-by:         COSMOTE-MNT
+created:        2011-05-03T09:14:31Z
+last-modified:  2011-05-03T09:14:31Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.92.6 (BLAARKOP)
+
+
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.ripe.net
+
+inetnum:      109.0.0.0 - 109.255.255.255
+organisation: RIPE NCC
+status:       ALLOCATED
+
+whois:        whois.ripe.net
+
+changed:      2009-01
+source:       IANA
+
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '109.242.0.0 - 109.242.127.255'
+
+% Abuse contact for '109.242.0.0 - 109.242.127.255' is 'abuse@wind.gr'
+
+inetnum:        109.242.0.0 - 109.242.127.255
+netname:        Tellas-NET
+descr:          Tellas S.A.
+country:        GR
+admin-c:        TA607-RIPE
+tech-c:         TT640-RIPE
+status:         ASSIGNED PA
+mnt-by:         Tellas-MNT
+mnt-lower:      Tellas-MNT
+mnt-routes:     Tellas-MNT
+remarks:        +---------------------------------------+
+remarks:        |Abuse & Spam:   abuse@wind.gr  |
+remarks:        +---------------------------------------+
+created:        2010-01-08T07:01:32Z
+last-modified:  2018-12-10T15:15:41Z
+source:         RIPE # Filtered
+
+role:           Tellas-Admin Role
+address:        Kifissias 64, Marousi
+address:        Maroussi, 151-25
+address:        Greece
+phone:          +302105100326
+fax-no:         +30210 6158 955
+admin-c:        ES5568-RIPE
+admin-c:        IT301-RIPE
+tech-c:         IT301-RIPE
+tech-c:         ES5568-RIPE
+nic-hdl:        TA607-RIPE
+remarks:        Role Object for all Admins
+abuse-mailbox:  abuse@wind.gr
+mnt-by:         Tellas-MNT
+created:        2002-11-26T17:09:39Z
+last-modified:  2016-11-07T10:10:22Z
+source:         RIPE # Filtered
+
+role:           Tellas-Tech Role
+address:        Kifissias 64, Marousi
+address:        Maroussi, 151-25
+address:        Greece
+phone:          +302105100326
+fax-no:         +30210 6158 955
+admin-c:        IT301-RIPE
+admin-c:        ES5568-RIPE
+tech-c:         ES5568-RIPE
+tech-c:         IT301-RIPE
+nic-hdl:        TT640-RIPE
+remarks:        Role Object for all Techs
+mnt-by:         Tellas-MNT
+abuse-mailbox:  abuse@wind.gr
+created:        2002-11-26T17:09:40Z
+last-modified:  2015-03-23T14:10:39Z
+source:         RIPE # Filtered
+
+% Information related to '109.242.0.0/17AS25472'
+
+route:          109.242.0.0/17
+descr:          Tellas S.A.
+origin:         AS25472
+mnt-by:         TELLAS-MNT
+created:        2009-12-04T10:54:52Z
+last-modified:  2009-12-04T10:54:52Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.92.6 (HEREFORD)
+
+
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.ripe.net
+
+inetnum:      109.0.0.0 - 109.255.255.255
+organisation: RIPE NCC
+status:       ALLOCATED
+
+whois:        whois.ripe.net
+
+changed:      2009-01
+source:       IANA
+
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '109.68.144.0 - 109.68.144.255'
+
+% Abuse contact for '109.68.144.0 - 109.68.144.255' is 'abuse@lancom.gr'
+
+inetnum:        109.68.144.0 - 109.68.144.255
+netname:        LANCOM-DC-20091012
+descr:          LANCOM LTD.
+remarks:        *************************************************
+remarks:        * Lancom Data Center - Thessaloniki - Greece *
+remarks:        *************************************************
+remarks:        * For spam/abuse/security issues please contact *
+remarks:        * this address only: abuse@lancom.gr *
+remarks:        *************************************************
+remarks:
+remarks:        *************************************************
+remarks:        * For any other information please visit us at: *
+remarks:        * www.lancom.gr *
+remarks:        *************************************************
+country:        GR
+admin-c:        GN2874-RIPE
+tech-c:         GN2874-RIPE
+mnt-domains:    MNT-LANCOM1
+mnt-routes:     MNT-LANCOM1
+mnt-lower:      MNT-LANCOM1
+status:         SUB-ALLOCATED PA
+mnt-by:         MNT-LANCOM1
+created:        2017-10-15T10:14:04Z
+last-modified:  2017-10-15T10:14:04Z
+source:         RIPE
+
+person:         George Nolis
+address:        Vasileos Irakleiou 40
+address:        THESSALONIKI, 54623
+address:        GREECE
+phone:          +30 214 1001000
+fax-no:         +30 214 1001000
+nic-hdl:        GN2874-RIPE
+mnt-by:         MNT-LANCOM1
+created:        2011-02-28T11:30:20Z
+last-modified:  2017-10-30T22:13:02Z
+source:         RIPE # Filtered
+
+% Information related to '109.68.144.0/24AS199081'
+
+route:          109.68.144.0/24
+origin:         AS199081
+mnt-by:         MNT-LANCOM1
+created:        2016-08-29T15:11:13Z
+last-modified:  2016-08-29T15:11:13Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.92.6 (ANGUS)
+
+
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.arin.net
+
+inetnum:      128.0.0.0 - 128.255.255.255
+organisation: Administered by ARIN
+status:       LEGACY
+
+whois:        whois.arin.net
+
+changed:      1993-05
+source:       IANA
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+
+#
+# Query terms are ambiguous.  The query is assumed to be:
+#     "n + 128.140.152.0"
+#
+# Use "?" to get help.
+#
+
+NetRange:       128.140.0.0 - 128.140.255.255
+CIDR:           128.140.0.0/16
+NetName:        RIPE-ERX-128-140-0-0
+NetHandle:      NET-128-140-0-0-1
+Parent:         NET128 (NET-128-0-0-0-0)
+NetType:        Early Registrations, Transferred to RIPE NCC
+OriginAS:       
+Organization:   RIPE Network Coordination Centre (RIPE)
+RegDate:        2010-11-03
+Updated:        2010-11-17
+Comment:        These addresses have been further assigned to users in
+Comment:        the RIPE NCC region. Contact information can be found in
+Comment:        the RIPE database at http://www.ripe.net/whois
+Ref:            https://rdap.arin.net/registry/ip/128.140.0.0
+
+ResourceLink:  https://apps.db.ripe.net/search/query.html
+ResourceLink:  whois.ripe.net
+
+
+OrgName:        RIPE Network Coordination Centre
+OrgId:          RIPE
+Address:        P.O. Box 10096
+City:           Amsterdam
+StateProv:      
+PostalCode:     1001EB
+Country:        NL
+RegDate:        
+Updated:        2013-07-29
+Ref:            https://rdap.arin.net/registry/entity/RIPE
+
+ReferralServer:  whois://whois.ripe.net
+ResourceLink:  https://apps.db.ripe.net/search/query.html
+
+OrgTechHandle: RNO29-ARIN
+OrgTechName:   RIPE NCC Operations
+OrgTechPhone:  +31 20 535 4444 
+OrgTechEmail:  hostmaster@ripe.net
+OrgTechRef:    https://rdap.arin.net/registry/entity/RNO29-ARIN
+
+OrgAbuseHandle: ABUSE3850-ARIN
+OrgAbuseName:   Abuse Contact
+OrgAbusePhone:  +31205354444 
+OrgAbuseEmail:  abuse@ripe.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE3850-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '128.140.152.0 - 128.140.155.255'
+
+% Abuse contact for '128.140.152.0 - 128.140.155.255' is 'dionisis.vinieratos@vodafone.com'
+
+inetnum:        128.140.152.0 - 128.140.155.255
+netname:        CYTA-HELLAS
+descr:          PROVIDER
+country:        GR
+admin-c:        CAS70-RIPE
+tech-c:         IV746-RIPE
+status:         ASSIGNED PA
+mnt-by:         CYTANET-NOC
+mnt-lower:      CYTANET-NOC
+mnt-lower:      CYTA-HELLAS
+remarks:        ++++++++++++++++++++++++++++++++++++++++++++++
+remarks:        +contact abuse@hq.cyta.gr for abuse,spam etc.+
+remarks:        ++++++++++++++++++++++++++++++++++++++++++++++
+created:        2015-03-03T10:43:35Z
+last-modified:  2015-03-03T10:43:35Z
+source:         RIPE
+
+role:           Cytanet Administration Staff
+address:        P.O.Box 24929, CY-1396 Nicosia
+address:        Cyprus
+address:        see www.cytanet.com.cy
+address:        see www.cyta.com.cy
+admin-c:        CC1779-RIPE
+tech-c:         CC1779-RIPE
+nic-hdl:        CAS70-RIPE
+remarks:        ++++++++++++++++++++++++++++++++++++++++++++++++++
+remarks:        +contact abuse@cytanet.com.cy for abuse,spam etc.+
+remarks:        ++++++++++++++++++++++++++++++++++++++++++++++++++
+abuse-mailbox:  abuse@cytanet.com.cy
+mnt-by:         CYTANET-NOC
+created:        2012-08-10T11:42:40Z
+last-modified:  2014-09-03T05:51:14Z
+source:         RIPE # Filtered
+
+person:         Ioannis Vlachos
+address:        CYTA-HELLAS
+address:        Network Operation and Maintenance
+address:        Kifisias 18 & Gkizi
+address:        15125 Marousi, Athens
+address:        Greece
+phone:          +3210 8872903
+fax-no:         +3210 6844615
+nic-hdl:        IV746-RIPE
+remarks:        +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+remarks:        + contact abuse@hq.cyta.gr for criminal use, spam etc.
+remarks:        +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+mnt-by:         CYTA-HELLAS
+created:        2008-11-25T08:06:42Z
+last-modified:  2008-12-12T08:51:00Z
+source:         RIPE # Filtered
+
+% Information related to '128.140.152.0/24AS6866'
+
+route:          128.140.152.0/24
+descr:          CYTA HELLAS
+origin:         AS6866
+mnt-by:         CYTANET-NOC
+created:        2018-02-28T09:09:52Z
+last-modified:  2018-02-28T09:09:52Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.92.6 (HEREFORD)
+
+
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.arin.net
+
+inetnum:      130.0.0.0 - 130.255.255.255
+organisation: Administered by ARIN
+status:       LEGACY
+
+whois:        whois.arin.net
+
+changed:      1993-05
+source:       IANA
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+
+#
+# Query terms are ambiguous.  The query is assumed to be:
+#     "n + 130.43.0.0"
+#
+# Use "?" to get help.
+#
+
+NetRange:       130.43.0.0 - 130.43.255.255
+CIDR:           130.43.0.0/16
+NetName:        RIPE-ERX-130-43-0-0
+NetHandle:      NET-130-43-0-0-1
+Parent:         NET130 (NET-130-0-0-0-0)
+NetType:        Early Registrations, Transferred to RIPE NCC
+OriginAS:       
+Organization:   RIPE Network Coordination Centre (RIPE)
+RegDate:        2010-11-03
+Updated:        2010-11-17
+Comment:        These addresses have been further assigned to users in
+Comment:        the RIPE NCC region. Contact information can be found in
+Comment:        the RIPE database at http://www.ripe.net/whois
+Ref:            https://rdap.arin.net/registry/ip/130.43.0.0
+
+ResourceLink:  https://apps.db.ripe.net/search/query.html
+ResourceLink:  whois.ripe.net
+
+
+OrgName:        RIPE Network Coordination Centre
+OrgId:          RIPE
+Address:        P.O. Box 10096
+City:           Amsterdam
+StateProv:      
+PostalCode:     1001EB
+Country:        NL
+RegDate:        
+Updated:        2013-07-29
+Ref:            https://rdap.arin.net/registry/entity/RIPE
+
+ReferralServer:  whois://whois.ripe.net
+ResourceLink:  https://apps.db.ripe.net/search/query.html
+
+OrgAbuseHandle: ABUSE3850-ARIN
+OrgAbuseName:   Abuse Contact
+OrgAbusePhone:  +31205354444 
+OrgAbuseEmail:  abuse@ripe.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE3850-ARIN
+
+OrgTechHandle: RNO29-ARIN
+OrgTechName:   RIPE NCC Operations
+OrgTechPhone:  +31 20 535 4444 
+OrgTechEmail:  hostmaster@ripe.net
+OrgTechRef:    https://rdap.arin.net/registry/entity/RNO29-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '130.43.0.0 - 130.43.31.255'
+
+% Abuse contact for '130.43.0.0 - 130.43.31.255' is 'abuse@forthnet.gr'
+
+inetnum:        130.43.0.0 - 130.43.31.255
+netname:        LLU-POOL-KLN
+descr:          ADSL LLU POOLS
+country:        GR
+admin-c:        FARO1-RIPE
+tech-c:         FTO1-RIPE
+status:         ASSIGNED PA
+mnt-by:         FORTHNETGR-MNT
+mnt-lower:      FORTHNETGR-MNT
+mnt-routes:     FORTHNETGR-MNT
+created:        2011-12-07T13:09:01Z
+last-modified:  2011-12-07T13:09:01Z
+source:         RIPE
+
+role:           Forthnet Administrative Role
+address:        58, Antigonis Str
+address:        104 42, ATHENS
+address:        GR
+phone:          +30 2119557000
+fax-no:         +30 2119557222
+abuse-mailbox:  abuse@forthnet.gr
+admin-c:        CK4191-RIPE
+admin-c:        DK637-RIPE
+tech-c:         FTO1-RIPE
+nic-hdl:        FARO1-RIPE
+mnt-by:         FORTHNETGR-MNT
+created:        2011-05-03T09:51:08Z
+last-modified:  2017-01-11T12:55:11Z
+source:         RIPE # Filtered
+
+role:           Forthnet Technical Operations
+address:        58, Antigonis Str
+address:        104 42, ATHENS
+address:        GR
+phone:          +30 2119557000
+fax-no:         +30 2119557222
+admin-c:        FARO1-RIPE
+tech-c:         DK637-RIPE
+tech-c:         CK4191-RIPE
+nic-hdl:        FTO1-RIPE
+mnt-by:         FORTHNETGR-MNT
+created:        1970-01-01T00:00:00Z
+last-modified:  2018-01-10T11:23:30Z
+source:         RIPE # Filtered
+abuse-mailbox:  abuse@forthnet.gr
+
+% Information related to '130.43.0.0/19AS1241'
+
+route:          130.43.0.0/19
+descr:          FORTHnet SA address block
+origin:         AS1241
+mnt-by:         FORTHNETGR-MNT
+created:        2011-12-14T13:32:36Z
+last-modified:  2011-12-14T13:32:36Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.92.6 (HEREFORD)
+
+
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.arin.net
+
+inetnum:      136.0.0.0 - 136.255.255.255
+organisation: Administered by ARIN
+status:       LEGACY
+
+whois:        whois.arin.net
+
+changed:      1993-05
+source:       IANA
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+
+#
+# Query terms are ambiguous.  The query is assumed to be:
+#     "n + 136.22.122.6"
+#
+# Use "?" to get help.
+#
+
+NetRange:       136.22.64.0 - 136.22.127.255
+CIDR:           136.22.64.0/18
+NetName:        GOOGL
+NetHandle:      NET-136-22-64-0-1
+Parent:         NET136 (NET-136-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Google, LLC (GOOGL)
+RegDate:        2017-05-05
+Updated:        2017-05-05
+Ref:            https://rdap.arin.net/registry/ip/136.22.64.0
+
+
+OrgName:        Google, LLC
+OrgId:          GOOGL
+Address:        Google Inc.
+Address:        1600 Amphitheatre Parkway
+City:           Mountain View
+StateProv:      CA
+PostalCode:     94043
+Country:        US
+RegDate:        2003-06-23
+Updated:        2018-10-24
+Comment:        Please note that the recommended way to file abuse complaints are located in the following links. 
+Comment:        
+Comment:        To report abuse and illegal activity: https://www.google.com/contact/
+Comment:        
+Comment:        For legal requests: http://support.google.com/legal 
+Comment:        
+Comment:        Regards, 
+Comment:        The Google Team
+Ref:            https://rdap.arin.net/registry/entity/GOOGL
+
+
+OrgAbuseHandle: ABUSE5250-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-650-253-0000 
+OrgAbuseEmail:  network-abuse@google.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE5250-ARIN
+
+OrgTechHandle: ZG39-ARIN
+OrgTechName:   Google LLC
+OrgTechPhone:  +1-650-253-0000 
+OrgTechEmail:  arin-contact@google.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZG39-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.arin.net
+
+inetnum:      136.0.0.0 - 136.255.255.255
+organisation: Administered by ARIN
+status:       LEGACY
+
+whois:        whois.arin.net
+
+changed:      1993-05
+source:       IANA
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+
+#
+# Query terms are ambiguous.  The query is assumed to be:
+#     "n + 136.22.123.6"
+#
+# Use "?" to get help.
+#
+
+NetRange:       136.22.64.0 - 136.22.127.255
+CIDR:           136.22.64.0/18
+NetName:        GOOGL
+NetHandle:      NET-136-22-64-0-1
+Parent:         NET136 (NET-136-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Google, LLC (GOOGL)
+RegDate:        2017-05-05
+Updated:        2017-05-05
+Ref:            https://rdap.arin.net/registry/ip/136.22.64.0
+
+
+OrgName:        Google, LLC
+OrgId:          GOOGL
+Address:        Google Inc.
+Address:        1600 Amphitheatre Parkway
+City:           Mountain View
+StateProv:      CA
+PostalCode:     94043
+Country:        US
+RegDate:        2003-06-23
+Updated:        2018-10-24
+Comment:        Please note that the recommended way to file abuse complaints are located in the following links. 
+Comment:        
+Comment:        To report abuse and illegal activity: https://www.google.com/contact/
+Comment:        
+Comment:        For legal requests: http://support.google.com/legal 
+Comment:        
+Comment:        Regards, 
+Comment:        The Google Team
+Ref:            https://rdap.arin.net/registry/entity/GOOGL
+
+
+OrgTechHandle: ZG39-ARIN
+OrgTechName:   Google LLC
+OrgTechPhone:  +1-650-253-0000 
+OrgTechEmail:  arin-contact@google.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZG39-ARIN
+
+OrgAbuseHandle: ABUSE5250-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-650-253-0000 
+OrgAbuseEmail:  network-abuse@google.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE5250-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.arin.net
+
+inetnum:      138.0.0.0 - 138.255.255.255
+organisation: Administered by ARIN
+status:       LEGACY
+
+whois:        whois.arin.net
+
+changed:      1993-05
+source:       IANA
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+
+#
+# Query terms are ambiguous.  The query is assumed to be:
+#     "n + 138.99.209.0"
+#
+# Use "?" to get help.
+#
+
+NetRange:       138.99.0.0 - 138.99.255.255
+CIDR:           138.99.0.0/16
+NetName:        LACNIC-ERX-138-99-0-0
+NetHandle:      NET-138-99-0-0-1
+Parent:         NET138 (NET-138-0-0-0-0)
+NetType:        Transferred to LACNIC
+OriginAS:       
+Organization:   Latin American and Caribbean IP address Regional Registry (LACNIC)
+RegDate:        2010-11-19
+Updated:        2010-11-19
+Comment:        This IP address range is under LACNIC responsibility
+Comment:        for further allocations to users in LACNIC region.
+Comment:        Please see http://www.lacnic.net/ for further details,
+Comment:        or check the WHOIS server located at http://whois.lacnic.net
+Ref:            https://rdap.arin.net/registry/ip/138.99.0.0
+
+ResourceLink:  http://lacnic.net/cgi-bin/lacnic/whois
+ResourceLink:  whois.lacnic.net
+
+
+OrgName:        Latin American and Caribbean IP address Regional Registry
+OrgId:          LACNIC
+Address:        Rambla Republica de Mexico 6125
+City:           Montevideo
+StateProv:      
+PostalCode:     11400
+Country:        UY
+RegDate:        2002-07-26
+Updated:        2018-03-15
+Ref:            https://rdap.arin.net/registry/entity/LACNIC
+
+ReferralServer:  whois://whois.lacnic.net
+ResourceLink:  http://lacnic.net/cgi-bin/lacnic/whois
+
+OrgTechHandle: LACNIC-ARIN
+OrgTechName:   LACNIC Whois Info
+OrgTechPhone:  +598-2604-2222 
+OrgTechEmail:  whois-contact@lacnic.net
+OrgTechRef:    https://rdap.arin.net/registry/entity/LACNIC-ARIN
+
+OrgAbuseHandle: LWI100-ARIN
+OrgAbuseName:   LACNIC Whois Info
+OrgAbusePhone:  +598-2604-2222 
+OrgAbuseEmail:  abuse@lacnic.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/LWI100-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2019-02-05 10:18:20 (-02 -02:00)
+
+inetnum:     138.99.208/22
+status:      allocated
+aut-num:     N/A
+owner:       ESECURITY & ENTERTAINMENT LTD
+ownerid:     BZ-EELT-LACNIC
+responsible: Uzair Gadit
+address:     21 Regent Street, 21, -
+address:     -- - Belize City - 
+country:     BZ
+phone:       +1  2176514225 [0000]
+owner-c:     UZG
+tech-c:      UZG
+abuse-c:     UZG
+inetrev:     138.99.209/24
+nserver:     DNS1.P03.NSONE.NET  
+nsstat:      20190202 AA
+nslastaa:    20190202
+nserver:     DNS2.P03.NSONE.NET  
+nsstat:      20190202 AA
+nslastaa:    20190202
+nserver:     DNS3.P03.NSONE.NET  
+nsstat:      20190202 AA
+nslastaa:    20190202
+nserver:     DNS4.P03.NSONE.NET  
+nsstat:      20190202 AA
+nslastaa:    20190202
+created:     20150424
+changed:     20150424
+
+nic-hdl:     UZG
+person:      Uzair Gadit
+e-mail:      uzair.gadit@PUREVPN.COM
+address:     Belize City, Belize, -, -
+address:     - - Belize City - 
+country:     BZ
+phone:       +1  2176514225 [0000]
+created:     20150306
+changed:     20181030
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.arin.net
+
+inetnum:      139.0.0.0 - 139.255.255.255
+organisation: Administered by ARIN
+status:       LEGACY
+
+whois:        whois.arin.net
+
+changed:      1993-05
+source:       IANA
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+
+#
+# Query terms are ambiguous.  The query is assumed to be:
+#     "n + 139.91.0.0"
+#
+# Use "?" to get help.
+#
+
+NetRange:       139.89.0.0 - 139.92.255.255
+CIDR:           139.90.0.0/15, 139.89.0.0/16, 139.92.0.0/16
+NetName:        RIPE-ERX-139-89-0-0
+NetHandle:      NET-139-89-0-0-1
+Parent:         NET139 (NET-139-0-0-0-0)
+NetType:        Early Registrations, Transferred to RIPE NCC
+OriginAS:       
+Organization:   RIPE Network Coordination Centre (RIPE)
+RegDate:        2004-03-03
+Updated:        2004-03-03
+Comment:        These addresses have been further assigned to users in
+Comment:        the RIPE NCC region.  Contact information can be found in
+Comment:        the RIPE database at http://www.ripe.net/whois
+Ref:            https://rdap.arin.net/registry/ip/139.89.0.0
+
+ResourceLink:  https://apps.db.ripe.net/search/query.html
+ResourceLink:  whois.ripe.net
+
+
+OrgName:        RIPE Network Coordination Centre
+OrgId:          RIPE
+Address:        P.O. Box 10096
+City:           Amsterdam
+StateProv:      
+PostalCode:     1001EB
+Country:        NL
+RegDate:        
+Updated:        2013-07-29
+Ref:            https://rdap.arin.net/registry/entity/RIPE
+
+ReferralServer:  whois://whois.ripe.net
+ResourceLink:  https://apps.db.ripe.net/search/query.html
+
+OrgAbuseHandle: ABUSE3850-ARIN
+OrgAbuseName:   Abuse Contact
+OrgAbusePhone:  +31205354444 
+OrgAbuseEmail:  abuse@ripe.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE3850-ARIN
+
+OrgTechHandle: RNO29-ARIN
+OrgTechName:   RIPE NCC Operations
+OrgTechPhone:  +31 20 535 4444 
+OrgTechEmail:  hostmaster@ripe.net
+OrgTechRef:    https://rdap.arin.net/registry/entity/RNO29-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '139.91.0.0 - 139.91.255.255'
+
+% Abuse contact for '139.91.0.0 - 139.91.255.255' is 'abuse@ics.forth.gr'
+
+inetnum:        139.91.0.0 - 139.91.255.255
+netname:        FORTH
+descr:          P.O. Box 1385
+descr:          71110 Heraklio, Crete
+country:        GR
+org:            ORG-FORA4-RIPE
+sponsoring-org: ORG-GRaT1-RIPE
+admin-c:        DP97
+tech-c:         PS5334-RIPE
+status:         LEGACY
+mnt-by:         RIPE-NCC-LEGACY-MNT
+mnt-by:         FORTH-NOC-MNT
+mnt-lower:      FORTH-NOC-MNT
+mnt-routes:     FORTH-NOC-MNT
+created:        1970-01-01T00:00:00Z
+last-modified:  2016-04-14T08:28:55Z
+source:         RIPE # Filtered
+
+organisation:   ORG-FoRa4-RIPE
+org-name:       Foundation of Research and Technology Hellas
+org-type:       OTHER
+address:        N. Plastira 100
+address:        Heraklion, Crete
+address:        GR 70013
+admin-c:        fn1343-ripe
+mnt-ref:        FORTH-NOC-MNT
+mnt-by:         FORTH-NOC-MNT
+abuse-c:        FN1343-RIPE
+created:        2007-04-17T15:17:42Z
+last-modified:  2017-10-30T14:52:03Z
+source:         RIPE # Filtered
+
+person:         Demos Panagopoulos
+org:            ORG-FORA4-RIPE
+address:        Foundation of Research and Technology Hellas
+address:        Computer Science Institute
+address:        Science and TEchnology Park, Heraklion, Crete, Greece 71003
+mnt-by:         FORTH-NOC-MNT
+phone:          +30.2810391640
+nic-hdl:        DP97
+created:        1970-01-01T00:00:00Z
+last-modified:  2007-10-23T10:25:33Z
+source:         RIPE # Filtered
+
+person:         Panagiotis Sikas
+org:            ORG-FORA4-RIPE
+address:        Foundation of Research and Technology - Hellas, Institute of Computer Science
+address:        N. Plastira 100
+address:        Heraklion, 70013
+address:        GR
+phone:          +30.2810391640
+fax-no:         +30.2810391641
+mnt-by:         forth-noc-mnt
+nic-hdl:        PS5334-RIPE
+address:        sikas@ics.forth.gr
+created:        2005-06-24T17:05:34Z
+last-modified:  2007-10-23T10:32:49Z
+source:         RIPE # Filtered
+
+% Information related to '139.91.0.0/16AS8522'
+
+route:          139.91.0.0/16
+descr:          FORTH
+origin:         AS8522
+mnt-by:         FORTH-NOC-MNT
+created:        1970-01-01T00:00:00Z
+last-modified:  2005-10-20T07:40:53Z
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.92.6 (HEREFORD)
+
+
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.arin.net
+
+inetnum:      139.0.0.0 - 139.255.255.255
+organisation: Administered by ARIN
+status:       LEGACY
+
+whois:        whois.arin.net
+
+changed:      1993-05
+source:       IANA
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+
+#
+# Query terms are ambiguous.  The query is assumed to be:
+#     "n + 139.92.166.0"
+#
+# Use "?" to get help.
+#
+
+NetRange:       139.89.0.0 - 139.92.255.255
+CIDR:           139.90.0.0/15, 139.89.0.0/16, 139.92.0.0/16
+NetName:        RIPE-ERX-139-89-0-0
+NetHandle:      NET-139-89-0-0-1
+Parent:         NET139 (NET-139-0-0-0-0)
+NetType:        Early Registrations, Transferred to RIPE NCC
+OriginAS:       
+Organization:   RIPE Network Coordination Centre (RIPE)
+RegDate:        2004-03-03
+Updated:        2004-03-03
+Comment:        These addresses have been further assigned to users in
+Comment:        the RIPE NCC region.  Contact information can be found in
+Comment:        the RIPE database at http://www.ripe.net/whois
+Ref:            https://rdap.arin.net/registry/ip/139.89.0.0
+
+ResourceLink:  https://apps.db.ripe.net/search/query.html
+ResourceLink:  whois.ripe.net
+
+
+OrgName:        RIPE Network Coordination Centre
+OrgId:          RIPE
+Address:        P.O. Box 10096
+City:           Amsterdam
+StateProv:      
+PostalCode:     1001EB
+Country:        NL
+RegDate:        
+Updated:        2013-07-29
+Ref:            https://rdap.arin.net/registry/entity/RIPE
+
+ReferralServer:  whois://whois.ripe.net
+ResourceLink:  https://apps.db.ripe.net/search/query.html
+
+OrgAbuseHandle: ABUSE3850-ARIN
+OrgAbuseName:   Abuse Contact
+OrgAbusePhone:  +31205354444 
+OrgAbuseEmail:  abuse@ripe.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE3850-ARIN
+
+OrgTechHandle: RNO29-ARIN
+OrgTechName:   RIPE NCC Operations
+OrgTechPhone:  +31 20 535 4444 
+OrgTechEmail:  hostmaster@ripe.net
+OrgTechRef:    https://rdap.arin.net/registry/entity/RNO29-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '139.92.0.0 - 139.92.255.255'
+
+% Abuse contact for '139.92.0.0 - 139.92.255.255' is 'abuse@att.net'
+
+inetnum:        139.92.0.0 - 139.92.255.255
+netname:        EU-IBM-139-92-16
+status:         LEGACY
+remarks:        GIP EMEA RAS pool (Rene Kogels)
+country:        EU
+org:            ORG-AGNS1-RIPE
+admin-c:        dr7890-ripe
+tech-c:         dr7890-ripe
+mnt-by:         RIPE-NCC-LEGACY-MNT
+mnt-by:         MAINT-AS2686
+mnt-routes:     MAINT-AS2686
+created:        2002-09-17T11:59:13Z
+last-modified:  2016-04-14T10:00:07Z
+source:         RIPE
+
+organisation:   ORG-AGNS1-RIPE
+org-name:       AT&T Global Network Services Nederland B.V.
+org-type:       LIR
+address:        Wilhelmina van Pruisenweg 104
+address:        2595 AN
+address:        AC Den Haag
+address:        NETHERLANDS
+phone:          +31703376803
+fax-no:         +31703376699
+abuse-c:        AR13530-RIPE
+admin-c:        NI9-RIPE
+admin-c:        RK7531-RIPE
+admin-c:        DR7890-RIPE
+admin-c:        LL6103-RIPE
+admin-c:        PZ2930-RIPE
+mnt-ref:        MAINT-AS2686
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         MAINT-AS2686
+created:        2004-04-17T10:55:11Z
+last-modified:  2017-10-30T15:27:30Z
+source:         RIPE # Filtered
+
+person:         Dani Rueegg
+address:        AT&T Global RIPE ADMIN
+phone:          +1
+nic-hdl:        DR7890-RIPE
+mnt-by:         maint-as2686
+created:        1970-01-01T00:00:00Z
+last-modified:  2014-05-20T13:33:42Z
+source:         RIPE # Filtered
+
+% Information related to '139.92.0.0/16AS2686'
+
+route:          139.92.0.0/16
+descr:          AT&T GNS Ranges
+descr:          For routing issues: noc@intl.att.com
+descr:          For addressing issues: euabsipa@emea.att.com
+origin:         AS2686
+mnt-by:         MAINT-AS2686
+created:        2005-12-15T05:17:25Z
+last-modified:  2015-05-22T09:27:45Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.92.6 (WAGYU)
+
+
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.ripe.net
+
+inetnum:      141.0.0.0 - 141.255.255.255
+organisation: Administered by RIPE NCC
+status:       LEGACY
+
+whois:        whois.ripe.net
+
+changed:      1993-05
+source:       IANA
+
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '141.237.0.0 - 141.237.127.255'
+
+% Abuse contact for '141.237.0.0 - 141.237.127.255' is 'dionisis.vinieratos@vodafone.com'
+
+inetnum:        141.237.0.0 - 141.237.127.255
+netname:        HOL-BROADBAND
+descr:          Hellas On Line S.A.
+country:        GR
+admin-c:        HOL-RIPE
+tech-c:         HOL-RIPE
+status:         ASSIGNED PA
+mnt-by:         AS3329-MNT
+mnt-lower:      AS3329-MNT
+mnt-routes:     AS3329-MNT
+created:        2011-07-04T13:42:42Z
+last-modified:  2014-09-16T16:06:28Z
+source:         RIPE
+
+role:           VFGR Fixed Network Operations Center
+address:        Vodafone Greece Fixed (ex Hellas On Line S.A.)
+address:        1-3, Tzavella Str
+address:        15231 , Halandri, Athens, Greece
+remarks:        ------------------------------------------
+remarks:        For complaints regarding abuse, spam, etc:
+remarks:        abuse-mailbox: abuseholgr@hol.net
+remarks:        abuse-mailbox: postmasterholgr@hol.net
+remarks:        ------------------------------------------
+admin-c:        TK583-RIPE
+tech-c:         TK583-RIPE
+tech-c:         MM25791-RIPE
+tech-c:         VK4395-RIPE
+tech-c:         HS8157-RIPE
+nic-hdl:        HOL-RIPE
+mnt-by:         AS3329-MNT
+created:        2005-05-04T12:37:03Z
+last-modified:  2016-09-29T09:27:05Z
+source:         RIPE # Filtered
+
+% Information related to '141.237.0.0/19AS3329'
+
+route:          141.237.0.0/19
+descr:          HOL
+origin:         AS3329
+mnt-lower:      AS3329-MNT
+mnt-routes:     AS3329-MNT
+mnt-by:         AS3329-MNT
+created:        2014-10-03T06:45:17Z
+last-modified:  2014-10-03T06:45:17Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.92.6 (ANGUS)
+
+
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.ripe.net
+
+inetnum:      141.0.0.0 - 141.255.255.255
+organisation: Administered by RIPE NCC
+status:       LEGACY
+
+whois:        whois.ripe.net
+
+changed:      1993-05
+source:       IANA
+
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '141.255.0.0 - 141.255.63.255'
+
+% Abuse contact for '141.255.0.0 - 141.255.63.255' is 'dionisis.vinieratos@vodafone.com'
+
+inetnum:        141.255.0.0 - 141.255.63.255
+netname:        HOL-BROADBAND
+descr:          Assignments for Always-On Services
+country:        GR
+admin-c:        HOL-RIPE
+tech-c:         HOL-RIPE
+status:         ASSIGNED PA
+mnt-by:         AS3329-MNT
+created:        2014-09-02T13:46:25Z
+last-modified:  2014-09-16T16:06:45Z
+source:         RIPE
+
+role:           VFGR Fixed Network Operations Center
+address:        Vodafone Greece Fixed (ex Hellas On Line S.A.)
+address:        1-3, Tzavella Str
+address:        15231 , Halandri, Athens, Greece
+remarks:        ------------------------------------------
+remarks:        For complaints regarding abuse, spam, etc:
+remarks:        abuse-mailbox: abuseholgr@hol.net
+remarks:        abuse-mailbox: postmasterholgr@hol.net
+remarks:        ------------------------------------------
+admin-c:        TK583-RIPE
+tech-c:         TK583-RIPE
+tech-c:         MM25791-RIPE
+tech-c:         VK4395-RIPE
+tech-c:         HS8157-RIPE
+nic-hdl:        HOL-RIPE
+mnt-by:         AS3329-MNT
+created:        2005-05-04T12:37:03Z
+last-modified:  2016-09-29T09:27:05Z
+source:         RIPE # Filtered
+
+% Information related to '141.255.0.0/19AS3329'
+
+route:          141.255.0.0/19
+descr:          HOL
+origin:         AS3329
+mnt-lower:      AS3329-MNT
+mnt-routes:     AS3329-MNT
+mnt-by:         AS3329-MNT
+created:        2015-09-01T13:30:09Z
+last-modified:  2015-09-01T13:30:09Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.92.6 (WAGYU)
+
+
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.arin.net
+
+inetnum:      143.0.0.0 - 143.255.255.255
+organisation: Administered by ARIN
+status:       LEGACY
+
+whois:        whois.arin.net
+
+changed:      1993-05
+source:       IANA
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+
+#
+# Query terms are ambiguous.  The query is assumed to be:
+#     "n + 143.233.0.0"
+#
+# Use "?" to get help.
+#
+
+NetRange:       143.233.0.0 - 143.234.255.255
+CIDR:           143.233.0.0/16, 143.234.0.0/16
+NetName:        RIPE-ERX-143-233-0-0
+NetHandle:      NET-143-233-0-0-1
+Parent:         NET143 (NET-143-0-0-0-0)
+NetType:        Early Registrations, Transferred to RIPE NCC
+OriginAS:       
+Organization:   RIPE Network Coordination Centre (RIPE)
+RegDate:        2003-11-12
+Updated:        2003-11-12
+Comment:        These addresses have been further assigned to users in
+Comment:        the RIPE NCC region.  Contact information can be found in
+Comment:        the RIPE database at http://www.ripe.net/whois
+Ref:            https://rdap.arin.net/registry/ip/143.233.0.0
+
+ResourceLink:  https://apps.db.ripe.net/search/query.html
+ResourceLink:  whois.ripe.net
+
+
+OrgName:        RIPE Network Coordination Centre
+OrgId:          RIPE
+Address:        P.O. Box 10096
+City:           Amsterdam
+StateProv:      
+PostalCode:     1001EB
+Country:        NL
+RegDate:        
+Updated:        2013-07-29
+Ref:            https://rdap.arin.net/registry/entity/RIPE
+
+ReferralServer:  whois://whois.ripe.net
+ResourceLink:  https://apps.db.ripe.net/search/query.html
+
+OrgAbuseHandle: ABUSE3850-ARIN
+OrgAbuseName:   Abuse Contact
+OrgAbusePhone:  +31205354444 
+OrgAbuseEmail:  abuse@ripe.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE3850-ARIN
+
+OrgTechHandle: RNO29-ARIN
+OrgTechName:   RIPE NCC Operations
+OrgTechPhone:  +31 20 535 4444 
+OrgTechEmail:  hostmaster@ripe.net
+OrgTechRef:    https://rdap.arin.net/registry/entity/RNO29-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '143.233.0.0 - 143.233.255.255'
+
+% Abuse contact for '143.233.0.0 - 143.233.255.255' is 'noc@ariadne-t.gr'
+
+inetnum:        143.233.0.0 - 143.233.255.255
+netname:        Ariadne-t_Network
+descr:          Greek Academic & Research Computer Network
+descr:          NCSR Demokritos
+descr:          153 10, Agia Paraskevi
+descr:          Athens, GREECE
+country:        GR
+org:            ORG-NCOS1-RIPE
+admin-c:        AN1558-RIPE
+tech-c:         AN1558-RIPE
+tech-c:         PT81
+status:         LEGACY
+remarks:        #################################
+remarks:        # For complaints of ABUSE e-mail to
+remarks:        # abuse@ariadne-t.gr
+remarks:        #################################
+remarks:        rev-srv:      isosun.ariadne-t.gr
+remarks:        rev-srv:      ns1.demokitos.gr
+remarks:        rev-srv:      achilles.noc.ntua.gr
+remarks:        rev-srv:      nic.grnet.gr
+remarks:        rev-srv:      ns0.ja.net
+mnt-by:         RIPE-NCC-LEGACY-MNT
+mnt-by:         AS2546-MNT
+mnt-domains:    AS2546-MNT
+mnt-routes:     AS2546-MNT
+created:        1970-01-01T00:00:00Z
+last-modified:  2016-07-29T07:36:16Z
+source:         RIPE # Filtered
+
+organisation:   ORG-NCOS1-RIPE
+org-name:       National Center of Scientific Research DEMOKRITOS
+org-type:       LIR
+address:        P.Grigoriou E and Neapoleos
+address:        15310
+address:        Aghia Paraskevi
+address:        GREECE
+admin-c:        YC1100-RIPE
+tech-c:         YC1100-RIPE
+abuse-c:        AR37119-RIPE
+mnt-ref:        gr-demokritos-ariadne-1-mnt
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         gr-demokritos-ariadne-1-mnt
+created:        2016-07-28T13:46:57Z
+last-modified:  2017-06-07T15:00:56Z
+source:         RIPE # Filtered
+phone:          +30 210 6503125
+fax-no:         +30 210 6543615
+
+role:           Ariadne-t NOC
+address:        Ariadne-t Network
+address:        NCSR Demokritos
+address:        153 10, Agia Paraskevi
+address:        Athens, GREECE
+phone:          +30 210 6503125
+phone:          +30 210 6544279
+phone:          +30 210 6513392
+fax-no:         +30 210 6543606
+admin-c:        YC50-RIPE
+tech-c:         KM1706-RIPE
+mnt-by:         AS2546-MNT
+nic-hdl:        AN1558-RIPE
+created:        2004-12-21T10:02:40Z
+last-modified:  2004-12-23T12:44:58Z
+source:         RIPE # Filtered
+
+person:         Panagiotis Telonis
+address:        Division of Applied Technologies (DAT)
+address:        NCSR Demokritos
+address:        153 10, Agia Paraskevi
+address:        Athens, GREECE
+phone:          +30 210 6541172
+phone:          +30 210 6503144
+fax-no:         +30 210 6532910
+nic-hdl:        PT81
+mnt-by:         AS2546-MNT
+created:        1970-01-01T00:00:00Z
+last-modified:  2004-12-21T16:31:06Z
+source:         RIPE # Filtered
+
+% Information related to '143.233.0.0/16AS2546'
+
+route:          143.233.0.0/16
+descr:          Ariadne-t Network
+origin:         AS2546
+mnt-by:         AS2546-MNT
+mnt-routes:     AS2546-MNT
+created:        1970-01-01T00:00:00Z
+last-modified:  2004-12-23T12:44:03Z
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.92.6 (WAGYU)
+
+
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.arin.net
+
+inetnum:      146.0.0.0 - 146.255.255.255
+organisation: Administered by ARIN
+status:       LEGACY
+
+whois:        whois.arin.net
+
+changed:      1993-05
+source:       IANA
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+
+#
+# Query terms are ambiguous.  The query is assumed to be:
+#     "n + 146.124.0.0"
+#
+# Use "?" to get help.
+#
+
+NetRange:       146.124.0.0 - 146.124.255.255
+CIDR:           146.124.0.0/16
+NetName:        RIPE-ERX-146-124-0-0
+NetHandle:      NET-146-124-0-0-1
+Parent:         NET146 (NET-146-0-0-0-0)
+NetType:        Early Registrations, Transferred to RIPE NCC
+OriginAS:       
+Organization:   RIPE Network Coordination Centre (RIPE)
+RegDate:        2004-02-04
+Updated:        2004-02-04
+Comment:        These addresses have been further assigned to users in
+Comment:        the RIPE NCC region.  Contact information can be found in
+Comment:        the RIPE database at http://www.ripe.net/whois
+Ref:            https://rdap.arin.net/registry/ip/146.124.0.0
+
+ResourceLink:  https://apps.db.ripe.net/search/query.html
+ResourceLink:  whois.ripe.net
+
+
+OrgName:        RIPE Network Coordination Centre
+OrgId:          RIPE
+Address:        P.O. Box 10096
+City:           Amsterdam
+StateProv:      
+PostalCode:     1001EB
+Country:        NL
+RegDate:        
+Updated:        2013-07-29
+Ref:            https://rdap.arin.net/registry/entity/RIPE
+
+ReferralServer:  whois://whois.ripe.net
+ResourceLink:  https://apps.db.ripe.net/search/query.html
+
+OrgTechHandle: RNO29-ARIN
+OrgTechName:   RIPE NCC Operations
+OrgTechPhone:  +31 20 535 4444 
+OrgTechEmail:  hostmaster@ripe.net
+OrgTechRef:    https://rdap.arin.net/registry/entity/RNO29-ARIN
+
+OrgAbuseHandle: ABUSE3850-ARIN
+OrgAbuseName:   Abuse Contact
+OrgAbusePhone:  +31205354444 
+OrgAbuseEmail:  abuse@ripe.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE3850-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '146.124.0.0 - 146.124.255.255'
+
+% No abuse contact registered for 146.124.0.0 - 146.124.255.255
+
+inetnum:        146.124.0.0 - 146.124.255.255
+netname:        NET-INTRANET
+descr:          INTRACOM S.A.
+descr:          19.5 Km Markopoulo Ave
+descr:          GR19002, Peania Attika
+descr:          Greece
+status:         LEGACY
+remarks:        For information on "status:" attribute read https://www.ripe.net/data-tools/db/faq/faq-status-values-legacy-resources
+remarks:        changed: hostmaster@arin.net 19910205
+remarks:        changed: hostmaster@arin.net 19991203
+country:        GR
+admin-c:        KT2365-RIPE
+tech-c:         AM42795-RIPE
+tech-c:         SP846-RIPE
+tech-c:         AP7411-RIPE
+remarks:        rev-srv: helios.intranet.gr
+remarks:        rev-srv: ns1.otenet.gr
+remarks:        rev-srv: ns2.otenet.gr
+mnt-by:         AS3260-MNT
+created:        1970-01-01T00:00:00Z
+last-modified:  2017-09-14T13:42:43Z
+source:         RIPE
+remarks:        rev-srv attribute deprecated by RIPE NCC on 02/09/2009
+
+person:         Andreas Mikedis
+address:        19.7 Km Markopoulou ave.
+phone:          +30-2106671000
+nic-hdl:        AM42795-RIPE
+mnt-by:         AS3260-MNT
+created:        2017-09-14T13:36:53Z
+last-modified:  2017-09-14T13:36:53Z
+source:         RIPE
+
+person:         Aristotelis Pissiotis
+address:        19,7 Km Markopoulou Ave
+address:        19002 Peania
+phone:          +30 210 667 1132
+fax-no:         +30 210 667 1106
+nic-hdl:        AP7411-RIPE
+mnt-by:         AS3260-MNT
+created:        2006-02-14T13:48:00Z
+last-modified:  2014-04-23T11:45:48Z
+source:         RIPE # Filtered
+
+person:         Konstantinos Tybas
+address:        19.7 km Markopoulou ave.
+phone:          +30-2106671000
+nic-hdl:        KT2365-RIPE
+mnt-by:         AS3260-MNT
+created:        2013-04-22T13:42:25Z
+last-modified:  2014-04-23T12:11:43Z
+source:         RIPE # Filtered
+
+person:         Sarandis Papanagnou
+address:        19.5 km Markopoulo Ave.
+address:        19002 Peania
+phone:          +30-210-6671115
+fax-no:         +30-210-6671106
+nic-hdl:        SP846-RIPE
+mnt-by:         AS3260-MNT
+created:        2002-05-23T14:17:57Z
+last-modified:  2014-04-23T11:50:13Z
+source:         RIPE # Filtered
+
+% Information related to '146.124.0.0/16AS3260'
+
+route:          146.124.0.0/16
+descr:          INTRACOM S.A.
+origin:         AS3260
+mnt-by:         AS3260-MNT
+created:        1970-01-01T00:00:00Z
+last-modified:  2006-02-15T09:44:32Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.92.6 (HEREFORD)
+
+
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.arin.net
+
+inetnum:      146.0.0.0 - 146.255.255.255
+organisation: Administered by ARIN
+status:       LEGACY
+
+whois:        whois.arin.net
+
+changed:      1993-05
+source:       IANA
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+
+#
+# Query terms are ambiguous.  The query is assumed to be:
+#     "n + 146.252.123.0"
+#
+# Use "?" to get help.
+#
+
+NetRange:       146.252.0.0 - 146.252.255.255
+CIDR:           146.252.0.0/16
+NetName:        SSI
+NetHandle:      NET-146-252-0-0-1
+Parent:         NET146 (NET-146-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Silicon Systems, Inc. (SILICO-6)
+RegDate:        1991-03-06
+Updated:        2018-01-23
+Ref:            https://rdap.arin.net/registry/ip/146.252.0.0
+
+
+OrgName:        Silicon Systems, Inc.
+OrgId:          SILICO-6
+Address:        150 S 1st St.
+City:           San Jose
+StateProv:      CA
+PostalCode:     95113
+Country:        US
+RegDate:        1991-03-06
+Updated:        2018-09-19
+Ref:            https://rdap.arin.net/registry/entity/SILICO-6
+
+
+OrgAbuseHandle: SYSAD127-ARIN
+OrgAbuseName:   SysAdmin
+OrgAbusePhone:  +1-714-485-5638 
+OrgAbuseEmail:  SysAdmin@ssi1.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/SYSAD127-ARIN
+
+OrgTechHandle: SYSAD127-ARIN
+OrgTechName:   SysAdmin
+OrgTechPhone:  +1-714-485-5638 
+OrgTechEmail:  SysAdmin@ssi1.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/SYSAD127-ARIN
+
+RNOCHandle: SYSAD127-ARIN
+RNOCName:   SysAdmin
+RNOCPhone:  +1-714-485-5638 
+RNOCEmail:  SysAdmin@ssi1.com
+RNOCRef:    https://rdap.arin.net/registry/entity/SYSAD127-ARIN
+
+RTechHandle: SYSAD127-ARIN
+RTechName:   SysAdmin
+RTechPhone:  +1-714-485-5638 
+RTechEmail:  SysAdmin@ssi1.com
+RTechRef:    https://rdap.arin.net/registry/entity/SYSAD127-ARIN
+
+RAbuseHandle: SYSAD127-ARIN
+RAbuseName:   SysAdmin
+RAbusePhone:  +1-714-485-5638 
+RAbuseEmail:  SysAdmin@ssi1.com
+RAbuseRef:    https://rdap.arin.net/registry/entity/SYSAD127-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.arin.net
+
+inetnum:      147.0.0.0 - 147.255.255.255
+organisation: Administered by ARIN
+status:       LEGACY
+
+whois:        whois.arin.net
+
+changed:      1993-05
+source:       IANA
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+
+#
+# Query terms are ambiguous.  The query is assumed to be:
+#     "n + 147.102.0.0"
+#
+# Use "?" to get help.
+#
+
+NetRange:       147.102.0.0 - 147.102.255.255
+CIDR:           147.102.0.0/16
+NetName:        RIPE-ERX-147-102-0-0
+NetHandle:      NET-147-102-0-0-1
+Parent:         NET147 (NET-147-0-0-0-0)
+NetType:        Early Registrations, Transferred to RIPE NCC
+OriginAS:       
+Organization:   RIPE Network Coordination Centre (RIPE)
+RegDate:        2003-10-08
+Updated:        2003-10-08
+Comment:        These addresses have been further assigned to users in
+Comment:        the RIPE NCC region.  Contact information can be found in
+Comment:        the RIPE database at http://www.ripe.net/whois
+Ref:            https://rdap.arin.net/registry/ip/147.102.0.0
+
+ResourceLink:  https://apps.db.ripe.net/search/query.html
+ResourceLink:  whois.ripe.net
+
+
+OrgName:        RIPE Network Coordination Centre
+OrgId:          RIPE
+Address:        P.O. Box 10096
+City:           Amsterdam
+StateProv:      
+PostalCode:     1001EB
+Country:        NL
+RegDate:        
+Updated:        2013-07-29
+Ref:            https://rdap.arin.net/registry/entity/RIPE
+
+ReferralServer:  whois://whois.ripe.net
+ResourceLink:  https://apps.db.ripe.net/search/query.html
+
+OrgAbuseHandle: ABUSE3850-ARIN
+OrgAbuseName:   Abuse Contact
+OrgAbusePhone:  +31205354444 
+OrgAbuseEmail:  abuse@ripe.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE3850-ARIN
+
+OrgTechHandle: RNO29-ARIN
+OrgTechName:   RIPE NCC Operations
+OrgTechPhone:  +31 20 535 4444 
+OrgTechEmail:  hostmaster@ripe.net
+OrgTechRef:    https://rdap.arin.net/registry/entity/RNO29-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '147.102.0.0 - 147.102.255.255'
+
+% No abuse contact registered for 147.102.0.0 - 147.102.255.255
+
+inetnum:        147.102.0.0 - 147.102.255.255
+netname:        NTUA
+descr:          National Technical University of Athens
+country:        GR
+admin-c:        NN4-RIPE
+tech-c:         NN4-RIPE
+status:         LEGACY
+remarks:        For information on "status:" attribute read https://www.ripe.net/data-tools/db/faq/faq-status-values-legacy-resources
+mnt-by:         NTUA-NOC
+created:        1970-01-01T00:00:00Z
+last-modified:  2015-05-05T02:16:14Z
+source:         RIPE # Filtered
+
+role:           NTUA NOC
+address:        Network Operation Center - NOC
+address:        National Technical University Of Athens - NTUA
+address:        GR 15780, ZOGRAFOU
+address:        ATHENS, GREECE
+phone:          +30210-772-1861
+fax-no:         +30210-772-1866
+remarks:        --------------------------------------
+remarks:        For complains about abuse, spam etc:
+abuse-mailbox:  abuse@ntua.gr
+remarks:        --------------------------------------
+admin-c:        ES3129-RIPE
+admin-c:        RL248-RIPE
+tech-c:         DK24-RIPE
+tech-c:         DM447-RIPE
+tech-c:         SP2152-RIPE
+tech-c:         AD9501-RIPE
+nic-hdl:        NN4-RIPE
+mnt-by:         NTUA-NOC
+created:        2001-12-17T10:42:22Z
+last-modified:  2012-07-13T16:17:36Z
+source:         RIPE # Filtered
+
+% Information related to '147.102.0.0/16AS3323'
+
+route:          147.102.0.0/16
+descr:          National Technical University of Athens
+origin:         AS3323
+mnt-by:         NTUA-NOC
+created:        1970-01-01T00:00:00Z
+last-modified:  2001-09-22T09:32:16Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.92.6 (WAGYU)
+
+
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.arin.net
+
+inetnum:      147.0.0.0 - 147.255.255.255
+organisation: Administered by ARIN
+status:       LEGACY
+
+whois:        whois.arin.net
+
+changed:      1993-05
+source:       IANA
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+
+#
+# Query terms are ambiguous.  The query is assumed to be:
+#     "n + 147.243.72.0"
+#
+# Use "?" to get help.
+#
+
+NetRange:       147.243.0.0 - 147.243.255.255
+CIDR:           147.243.0.0/16
+NetName:        RIPE-ERX-147-243-0-0
+NetHandle:      NET-147-243-0-0-1
+Parent:         NET147 (NET-147-0-0-0-0)
+NetType:        Early Registrations, Transferred to RIPE NCC
+OriginAS:       
+Organization:   RIPE Network Coordination Centre (RIPE)
+RegDate:        1991-07-30
+Updated:        2006-05-02
+Comment:        These addresses have been further assigned to users in
+Comment:        the RIPE NCC region.  Contact information can be found in
+Comment:        the RIPE database at http://www.ripe.net/whois
+Ref:            https://rdap.arin.net/registry/ip/147.243.0.0
+
+ResourceLink:  https://apps.db.ripe.net/search/query.html
+ResourceLink:  whois.ripe.net
+
+
+OrgName:        RIPE Network Coordination Centre
+OrgId:          RIPE
+Address:        P.O. Box 10096
+City:           Amsterdam
+StateProv:      
+PostalCode:     1001EB
+Country:        NL
+RegDate:        
+Updated:        2013-07-29
+Ref:            https://rdap.arin.net/registry/entity/RIPE
+
+ReferralServer:  whois://whois.ripe.net
+ResourceLink:  https://apps.db.ripe.net/search/query.html
+
+OrgAbuseHandle: ABUSE3850-ARIN
+OrgAbuseName:   Abuse Contact
+OrgAbusePhone:  +31205354444 
+OrgAbuseEmail:  abuse@ripe.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE3850-ARIN
+
+OrgTechHandle: RNO29-ARIN
+OrgTechName:   RIPE NCC Operations
+OrgTechPhone:  +31 20 535 4444 
+OrgTechEmail:  hostmaster@ripe.net
+OrgTechRef:    https://rdap.arin.net/registry/entity/RNO29-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '147.243.0.0 - 147.243.255.255'
+
+% Abuse contact for '147.243.0.0 - 147.243.255.255' is 'abuse@microsoft.com'
+
+inetnum:        147.243.0.0 - 147.243.255.255
+netname:        GB-MICROSOFT
+org:            ORG-MA42-RIPE
+descr:          Microsoft Limited UK
+country:        GB
+admin-c:        DH5439-RIPE
+tech-c:         MRPA3-RIPE
+status:         LEGACY
+mnt-by:         MICROSOFT-MAINT
+mnt-by:         RIPE-NCC-LEGACY-MNT
+created:        2006-04-25T10:13:22Z
+last-modified:  2017-04-20T11:00:11Z
+source:         RIPE
+
+organisation:   ORG-MA42-RIPE
+org-name:       Microsoft Limited
+org-type:       LIR
+descr:          Microsoft Corporation AS8075
+descr:          To report suspected security issues specific to
+descr:          traffic emanating from Microsoft online services,
+descr:          including the distribution of malicious content
+descr:          or other illicit or illegal material through a
+descr:          Microsoft online service, please submit reports
+descr:          to:
+descr:          * https://cert.microsoft.com
+descr:          For SPAM and other abuse issues, such as Microsoft
+descr:          Accounts, please contact:
+descr:          * abuse@microsoft.com
+descr:          To report security vulnerabilities in Microsoft
+descr:          products and services, please contact:
+descr:          * secure@microsoft.com
+descr:          For legal and law enforcement-related requests,
+descr:          please contact:
+descr:          * msndcc@microsoft.com
+descr:          For routing, peering or DNS issues, please
+descr:          contact:
+descr:          * IOC@microsoft.com
+address:        One Microsoft Way
+address:        WA 98052
+address:        Redmond
+address:        UNITED STATES
+phone:          +1 425 882 8080
+fax-no:         +1 425 936 7329
+abuse-c:        MAC274-RIPE
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        MICROSOFT-MAINT
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         MICROSOFT-MAINT
+created:        2004-04-17T12:18:10Z
+last-modified:  2017-07-18T18:20:56Z
+source:         RIPE # Filtered
+
+role:           Microsoft Routing, Peering, and DNS
+address:        One Microsoft Way
+address:        Redmond, WA 98052
+nic-hdl:        MRPA3-RIPE
+mnt-by:         MICROSOFT-MAINT
+created:        2014-08-26T16:25:24Z
+last-modified:  2014-08-26T16:25:24Z
+source:         RIPE # Filtered
+
+person:         Divya Quamara
+address:        One Microsoft Way
+address:        Redmond, WA 98052
+phone:          +1-425-882-8080
+nic-hdl:        DH5439-RIPE
+mnt-by:         MICROSOFT-MAINT
+created:        2014-08-26T16:24:14Z
+last-modified:  2016-02-19T07:09:41Z
+source:         RIPE
+
+% Information related to '147.243.72.0/23AS6453'
+
+route:          147.243.72.0/23
+descr:          HCL Atlanta
+origin:         AS6453
+mnt-by:         AS8297-MNT
+created:        2014-01-15T12:52:38Z
+last-modified:  2014-01-15T12:52:38Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.92.6 (HEREFORD)
+
+
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.arin.net
+
+inetnum:      147.0.0.0 - 147.255.255.255
+organisation: Administered by ARIN
+status:       LEGACY
+
+whois:        whois.arin.net
+
+changed:      1993-05
+source:       IANA
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+
+#
+# Query terms are ambiguous.  The query is assumed to be:
+#     "n + 147.243.81.9"
+#
+# Use "?" to get help.
+#
+
+NetRange:       147.243.0.0 - 147.243.255.255
+CIDR:           147.243.0.0/16
+NetName:        RIPE-ERX-147-243-0-0
+NetHandle:      NET-147-243-0-0-1
+Parent:         NET147 (NET-147-0-0-0-0)
+NetType:        Early Registrations, Transferred to RIPE NCC
+OriginAS:       
+Organization:   RIPE Network Coordination Centre (RIPE)
+RegDate:        1991-07-30
+Updated:        2006-05-02
+Comment:        These addresses have been further assigned to users in
+Comment:        the RIPE NCC region.  Contact information can be found in
+Comment:        the RIPE database at http://www.ripe.net/whois
+Ref:            https://rdap.arin.net/registry/ip/147.243.0.0
+
+ResourceLink:  https://apps.db.ripe.net/search/query.html
+ResourceLink:  whois.ripe.net
+
+
+OrgName:        RIPE Network Coordination Centre
+OrgId:          RIPE
+Address:        P.O. Box 10096
+City:           Amsterdam
+StateProv:      
+PostalCode:     1001EB
+Country:        NL
+RegDate:        
+Updated:        2013-07-29
+Ref:            https://rdap.arin.net/registry/entity/RIPE
+
+ReferralServer:  whois://whois.ripe.net
+ResourceLink:  https://apps.db.ripe.net/search/query.html
+
+OrgAbuseHandle: ABUSE3850-ARIN
+OrgAbuseName:   Abuse Contact
+OrgAbusePhone:  +31205354444 
+OrgAbuseEmail:  abuse@ripe.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE3850-ARIN
+
+OrgTechHandle: RNO29-ARIN
+OrgTechName:   RIPE NCC Operations
+OrgTechPhone:  +31 20 535 4444 
+OrgTechEmail:  hostmaster@ripe.net
+OrgTechRef:    https://rdap.arin.net/registry/entity/RNO29-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '147.243.0.0 - 147.243.255.255'
+
+% Abuse contact for '147.243.0.0 - 147.243.255.255' is 'abuse@microsoft.com'
+
+inetnum:        147.243.0.0 - 147.243.255.255
+netname:        GB-MICROSOFT
+org:            ORG-MA42-RIPE
+descr:          Microsoft Limited UK
+country:        GB
+admin-c:        DH5439-RIPE
+tech-c:         MRPA3-RIPE
+status:         LEGACY
+mnt-by:         MICROSOFT-MAINT
+mnt-by:         RIPE-NCC-LEGACY-MNT
+created:        2006-04-25T10:13:22Z
+last-modified:  2017-04-20T11:00:11Z
+source:         RIPE
+
+organisation:   ORG-MA42-RIPE
+org-name:       Microsoft Limited
+org-type:       LIR
+descr:          Microsoft Corporation AS8075
+descr:          To report suspected security issues specific to
+descr:          traffic emanating from Microsoft online services,
+descr:          including the distribution of malicious content
+descr:          or other illicit or illegal material through a
+descr:          Microsoft online service, please submit reports
+descr:          to:
+descr:          * https://cert.microsoft.com
+descr:          For SPAM and other abuse issues, such as Microsoft
+descr:          Accounts, please contact:
+descr:          * abuse@microsoft.com
+descr:          To report security vulnerabilities in Microsoft
+descr:          products and services, please contact:
+descr:          * secure@microsoft.com
+descr:          For legal and law enforcement-related requests,
+descr:          please contact:
+descr:          * msndcc@microsoft.com
+descr:          For routing, peering or DNS issues, please
+descr:          contact:
+descr:          * IOC@microsoft.com
+address:        One Microsoft Way
+address:        WA 98052
+address:        Redmond
+address:        UNITED STATES
+phone:          +1 425 882 8080
+fax-no:         +1 425 936 7329
+abuse-c:        MAC274-RIPE
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        MICROSOFT-MAINT
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         MICROSOFT-MAINT
+created:        2004-04-17T12:18:10Z
+last-modified:  2017-07-18T18:20:56Z
+source:         RIPE # Filtered
+
+role:           Microsoft Routing, Peering, and DNS
+address:        One Microsoft Way
+address:        Redmond, WA 98052
+nic-hdl:        MRPA3-RIPE
+mnt-by:         MICROSOFT-MAINT
+created:        2014-08-26T16:25:24Z
+last-modified:  2014-08-26T16:25:24Z
+source:         RIPE # Filtered
+
+person:         Divya Quamara
+address:        One Microsoft Way
+address:        Redmond, WA 98052
+phone:          +1-425-882-8080
+nic-hdl:        DH5439-RIPE
+mnt-by:         MICROSOFT-MAINT
+created:        2014-08-26T16:24:14Z
+last-modified:  2016-02-19T07:09:41Z
+source:         RIPE
+
+% Information related to '147.243.64.0/18AS6453'
+
+route:          147.243.64.0/18
+descr:          Microsoft Mobile Salo
+origin:         AS6453
+mnt-by:         AS8297-MNT
+created:        2015-06-18T06:09:20Z
+last-modified:  2015-06-18T06:09:20Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.92.6 (HEREFORD)
+
+
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.arin.net
+
+inetnum:      147.0.0.0 - 147.255.255.255
+organisation: Administered by ARIN
+status:       LEGACY
+
+whois:        whois.arin.net
+
+changed:      1993-05
+source:       IANA
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+
+#
+# Query terms are ambiguous.  The query is assumed to be:
+#     "n + 147.27.0.0"
+#
+# Use "?" to get help.
+#
+
+NetRange:       147.27.0.0 - 147.27.255.255
+CIDR:           147.27.0.0/16
+NetName:        RIPE-ERX-147-27-0-0
+NetHandle:      NET-147-27-0-0-1
+Parent:         NET147 (NET-147-0-0-0-0)
+NetType:        Early Registrations, Transferred to RIPE NCC
+OriginAS:       
+Organization:   RIPE Network Coordination Centre (RIPE)
+RegDate:        2003-10-08
+Updated:        2003-10-08
+Comment:        These addresses have been further assigned to users in
+Comment:        the RIPE NCC region.  Contact information can be found in
+Comment:        the RIPE database at http://www.ripe.net/whois
+Ref:            https://rdap.arin.net/registry/ip/147.27.0.0
+
+ResourceLink:  https://apps.db.ripe.net/search/query.html
+ResourceLink:  whois.ripe.net
+
+
+OrgName:        RIPE Network Coordination Centre
+OrgId:          RIPE
+Address:        P.O. Box 10096
+City:           Amsterdam
+StateProv:      
+PostalCode:     1001EB
+Country:        NL
+RegDate:        
+Updated:        2013-07-29
+Ref:            https://rdap.arin.net/registry/entity/RIPE
+
+ReferralServer:  whois://whois.ripe.net
+ResourceLink:  https://apps.db.ripe.net/search/query.html
+
+OrgAbuseHandle: ABUSE3850-ARIN
+OrgAbuseName:   Abuse Contact
+OrgAbusePhone:  +31205354444 
+OrgAbuseEmail:  abuse@ripe.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE3850-ARIN
+
+OrgTechHandle: RNO29-ARIN
+OrgTechName:   RIPE NCC Operations
+OrgTechPhone:  +31 20 535 4444 
+OrgTechEmail:  hostmaster@ripe.net
+OrgTechRef:    https://rdap.arin.net/registry/entity/RNO29-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '147.27.0.0 - 147.27.255.255'
+
+% Abuse contact for '147.27.0.0 - 147.27.255.255' is 'noc@noc.tuc.gr'
+
+inetnum:        147.27.0.0 - 147.27.255.255
+netname:        TUC
+country:        GR
+org:            ORG-TUOC3-RIPE
+admin-c:        TUC1-RIPE
+tech-c:         TUC1-RIPE
+status:         LEGACY
+remarks:        rev-srv:        dedalus.noc.tuc.gr
+remarks:        rev-srv:        sns0.grnet.gr
+mnt-by:         TUC-NOC
+mnt-by:         RIPE-NCC-LEGACY-MNT
+created:        1970-01-01T00:00:00Z
+last-modified:  2016-04-14T09:56:39Z
+source:         RIPE
+sponsoring-org: ORG-GRaT1-RIPE
+
+organisation:   ORG-TUoC3-RIPE
+org-name:       Technical University of Crete
+org-type:       OTHER
+address:        Campus, 7300 Chania
+address:        GREECE
+abuse-c:        AR22631-RIPE
+mnt-ref:        GRNET-NOC
+mnt-by:         GRNET-NOC
+created:        2010-05-04T14:50:53Z
+last-modified:  2017-10-30T14:45:47Z
+source:         RIPE # Filtered
+
+role:           TUC NOC
+address:        Network Operation Center
+address:        Technical University of Crete
+address:        Campus, 7300 Chania
+address:        GREECE
+phone:          +3 0821 37500
+fax-no:         +3 0821 37520
+remarks:        trouble: mailto: noc@noc.tuc.gr
+remarks:        trouble: http://www.noc.tuc.gr
+remarks:        trouble: mailto: abuse@tuc.gr
+abuse-mailbox:  abuse@tuc.gr
+admin-c:        SP9116-RIPE
+tech-c:         EP738-RIPE
+tech-c:         GA5357-RIPE
+nic-hdl:        TUC1-RIPE
+mnt-by:         TUC-NOC
+created:        1970-01-01T00:00:00Z
+last-modified:  2014-03-28T07:48:04Z
+source:         RIPE # Filtered
+
+% Information related to '147.27.0.0/16AS8278'
+
+route:          147.27.0.0/16
+descr:          Technical University of Crete
+origin:         AS8278
+mnt-by:         TUC-NOC
+created:        1970-01-01T00:00:00Z
+last-modified:  2001-09-22T09:32:25Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.92.6 (WAGYU)
+
+
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.arin.net
+
+inetnum:      147.0.0.0 - 147.255.255.255
+organisation: Administered by ARIN
+status:       LEGACY
+
+whois:        whois.arin.net
+
+changed:      1993-05
+source:       IANA
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+
+#
+# Query terms are ambiguous.  The query is assumed to be:
+#     "n + 147.52.0.0"
+#
+# Use "?" to get help.
+#
+
+NetRange:       147.52.0.0 - 147.52.255.255
+CIDR:           147.52.0.0/16
+NetName:        RIPE-ERX-147-52-0-0
+NetHandle:      NET-147-52-0-0-1
+Parent:         NET147 (NET-147-0-0-0-0)
+NetType:        Early Registrations, Transferred to RIPE NCC
+OriginAS:       
+Organization:   RIPE Network Coordination Centre (RIPE)
+RegDate:        2003-10-08
+Updated:        2003-10-08
+Comment:        These addresses have been further assigned to users in
+Comment:        the RIPE NCC region.  Contact information can be found in
+Comment:        the RIPE database at http://www.ripe.net/whois
+Ref:            https://rdap.arin.net/registry/ip/147.52.0.0
+
+ResourceLink:  https://apps.db.ripe.net/search/query.html
+ResourceLink:  whois.ripe.net
+
+
+OrgName:        RIPE Network Coordination Centre
+OrgId:          RIPE
+Address:        P.O. Box 10096
+City:           Amsterdam
+StateProv:      
+PostalCode:     1001EB
+Country:        NL
+RegDate:        
+Updated:        2013-07-29
+Ref:            https://rdap.arin.net/registry/entity/RIPE
+
+ReferralServer:  whois://whois.ripe.net
+ResourceLink:  https://apps.db.ripe.net/search/query.html
+
+OrgAbuseHandle: ABUSE3850-ARIN
+OrgAbuseName:   Abuse Contact
+OrgAbusePhone:  +31205354444 
+OrgAbuseEmail:  abuse@ripe.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE3850-ARIN
+
+OrgTechHandle: RNO29-ARIN
+OrgTechName:   RIPE NCC Operations
+OrgTechPhone:  +31 20 535 4444 
+OrgTechEmail:  hostmaster@ripe.net
+OrgTechRef:    https://rdap.arin.net/registry/entity/RNO29-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '147.52.0.0 - 147.52.255.255'
+
+% Abuse contact for '147.52.0.0 - 147.52.255.255' is 'noc@ucnet.uoc.gr'
+
+inetnum:        147.52.0.0 - 147.52.255.255
+netname:        UOFCRETE
+descr:          Heraklion, Crete
+country:        GR
+org:            ORG-UoC8-RIPE
+admin-c:        GF262-RIPE
+tech-c:         ES4535-RIPE
+tech-c:         MK16248-RIPE
+status:         LEGACY
+mnt-by:         AS6867-MNT
+mnt-by:         RIPE-NCC-LEGACY-MNT
+created:        2002-02-05T08:59:12Z
+last-modified:  2018-03-28T21:03:45Z
+source:         RIPE
+sponsoring-org: ORG-GRaT1-RIPE
+
+organisation:   ORG-UoC8-RIPE
+org-name:       University of Crete
+org-type:       OTHER
+address:        Knossou Str,Ampelokhpoi,Heraclion
+address:        PO BOX 71409
+abuse-c:        AR22632-RIPE
+mnt-ref:        GRNET-NOC
+mnt-by:         GRNET-NOC
+created:        2010-05-04T15:01:28Z
+last-modified:  2017-10-30T14:42:10Z
+source:         RIPE # Filtered
+
+person:         Emmanouil Stavrakakis
+address:        University of Crete.
+address:        Knossos Avenue, Heraklion, Crete, Greece.
+address:        71409 Heraklion
+phone:          +30 2810 393311
+fax-no:         +30 2810 393318
+nic-hdl:        ES4535-RIPE
+created:        2009-02-06T07:59:36Z
+last-modified:  2016-04-06T20:25:17Z
+mnt-by:         RIPE-NCC-LOCKED-MNT
+source:         RIPE # Filtered
+
+person:         Giannis Fragiadakis
+address:        University of Crete
+address:        Knossou Str,Ampelokhpoi,Heraclion
+address:        PO BOX 71409
+phone:          +30 81 393307
+phone:          +30 81 393312
+fax-no:         +30 81 393318
+nic-hdl:        GF262-RIPE
+created:        1970-01-01T00:00:00Z
+last-modified:  2016-04-05T19:10:10Z
+mnt-by:         RIPE-NCC-LOCKED-MNT
+source:         RIPE # Filtered
+
+person:         Michalis Kalogirou
+address:        N203, UCnet, University of Crete
+address:        Knossos Ave
+address:        71409 - Heraclion, Crete, Greece
+phone:          +302810393316
+fax-no:         +302810393318
+nic-hdl:        MK16248-RIPE
+created:        1970-01-01T00:00:00Z
+last-modified:  2016-04-05T19:10:32Z
+mnt-by:         RIPE-NCC-LOCKED-MNT
+source:         RIPE # Filtered
+
+% Information related to '147.52.0.0/16AS6867'
+
+route:          147.52.0.0/16
+descr:          University of Crete
+origin:         AS6867
+mnt-by:         AS6867-MNT
+created:        2002-02-04T16:16:50Z
+last-modified:  2002-02-04T16:16:50Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.92.6 (WAGYU)
+
+
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.arin.net
+
+inetnum:      147.0.0.0 - 147.255.255.255
+organisation: Administered by ARIN
+status:       LEGACY
+
+whois:        whois.arin.net
+
+changed:      1993-05
+source:       IANA
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+
+#
+# Query terms are ambiguous.  The query is assumed to be:
+#     "n + 147.95.0.0"
+#
+# Use "?" to get help.
+#
+
+NetRange:       147.93.0.0 - 147.96.255.255
+CIDR:           147.96.0.0/16, 147.94.0.0/15, 147.93.0.0/16
+NetName:        RIPE-ERX-147-93-0-0
+NetHandle:      NET-147-93-0-0-1
+Parent:         NET147 (NET-147-0-0-0-0)
+NetType:        Early Registrations, Transferred to RIPE NCC
+OriginAS:       
+Organization:   RIPE Network Coordination Centre (RIPE)
+RegDate:        2003-10-08
+Updated:        2003-10-08
+Comment:        These addresses have been further assigned to users in
+Comment:        the RIPE NCC region.  Contact information can be found in
+Comment:        the RIPE database at http://www.ripe.net/whois
+Ref:            https://rdap.arin.net/registry/ip/147.93.0.0
+
+ResourceLink:  https://apps.db.ripe.net/search/query.html
+ResourceLink:  whois.ripe.net
+
+
+OrgName:        RIPE Network Coordination Centre
+OrgId:          RIPE
+Address:        P.O. Box 10096
+City:           Amsterdam
+StateProv:      
+PostalCode:     1001EB
+Country:        NL
+RegDate:        
+Updated:        2013-07-29
+Ref:            https://rdap.arin.net/registry/entity/RIPE
+
+ReferralServer:  whois://whois.ripe.net
+ResourceLink:  https://apps.db.ripe.net/search/query.html
+
+OrgTechHandle: RNO29-ARIN
+OrgTechName:   RIPE NCC Operations
+OrgTechPhone:  +31 20 535 4444 
+OrgTechEmail:  hostmaster@ripe.net
+OrgTechRef:    https://rdap.arin.net/registry/entity/RNO29-ARIN
+
+OrgAbuseHandle: ABUSE3850-ARIN
+OrgAbuseName:   Abuse Contact
+OrgAbusePhone:  +31205354444 
+OrgAbuseEmail:  abuse@ripe.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE3850-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '147.95.0.0 - 147.95.255.255'
+
+% Abuse contact for '147.95.0.0 - 147.95.255.255' is 'abuse@teicrete.gr'
+
+inetnum:        147.95.0.0 - 147.95.255.255
+netname:        TEICRETE
+descr:          PO Box 140
+descr:          Estavromenos
+descr:          71004 Heraklio, Crete
+country:        GR
+org:            ORG-TOCR1-RIPE
+admin-c:        THN8-RIPE
+tech-c:         THN8-RIPE
+status:         LEGACY
+mnt-by:         RIPE-NCC-LEGACY-MNT
+mnt-by:         AS8762-MNT
+mnt-lower:      AS8762-MNT
+mnt-routes:     AS8762-MNT
+created:        2003-09-09T12:30:29Z
+last-modified:  2016-04-14T08:25:05Z
+source:         RIPE
+sponsoring-org: ORG-GRaT1-RIPE
+
+organisation:   ORG-TOCR1-RIPE
+org-name:       Technological Educational Institute of Crete
+org-type:       OTHER
+address:        Estavromenos, 71004 Heraklion, Crete, Greece
+abuse-c:        AR20205-RIPE
+mnt-ref:        TEICRETE-NOC
+mnt-by:         TEICRETE-NOC
+created:        2013-05-24T12:42:27Z
+last-modified:  2017-10-30T14:40:58Z
+source:         RIPE # Filtered
+
+role:           TEICRETE - Heraklion NOC
+address:        Technological Educational Institute of Crete
+address:        Stavromenos
+address:        71004 Heraklion
+address:        Crete, Greece
+abuse-mailbox:  abuse@teicrete.gr
+admin-c:        KV281-RIPE
+tech-c:         MV752-RIPE
+mnt-by:         AS8762-MNT
+nic-hdl:        THN8-RIPE
+created:        2009-05-20T11:17:22Z
+last-modified:  2009-05-21T07:42:09Z
+source:         RIPE # Filtered
+
+% Information related to '147.95.0.0/16AS8762'
+
+route:          147.95.0.0/16
+descr:          TEI of Crete
+origin:         AS8762
+mnt-by:         AS8762-MNT
+created:        2010-06-03T10:23:11Z
+last-modified:  2010-06-03T10:23:11Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.92.6 (BLAARKOP)
+
+
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.arin.net
+
+inetnum:      149.0.0.0 - 149.255.255.255
+organisation: Administered by ARIN
+status:       LEGACY
+
+whois:        whois.arin.net
+
+changed:      1993-05
+source:       IANA
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+
+#
+# Query terms are ambiguous.  The query is assumed to be:
+#     "n + 149.11.120.1"
+#
+# Use "?" to get help.
+#
+
+NetRange:       149.11.0.0 - 149.11.255.255
+CIDR:           149.11.0.0/16
+NetName:        COGENT-149-11-16
+NetHandle:      NET-149-11-0-0-1
+Parent:         NET149 (NET-149-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS174
+Organization:   PSINet, Inc. (PSI-1)
+RegDate:        1992-01-28
+Updated:        2016-02-04
+Comment:        Reassignment information for this block is
+Comment:        available at rwhois.cogentco.com port 4321
+Ref:            https://rdap.arin.net/registry/ip/149.11.0.0
+
+
+OrgName:        PSINet, Inc.
+OrgId:          PSI-1
+Address:        2450 N Street NW
+City:           Washington
+StateProv:      DC
+PostalCode:     20037
+Country:        US
+RegDate:        1992-01-28
+Updated:        2015-06-04
+Ref:            https://rdap.arin.net/registry/entity/PSI-1
+
+ReferralServer:  rwhois://rwhois.cogentco.com:4321
+
+OrgNOCHandle: ZC108-ARIN
+OrgNOCName:   Cogent Communications
+OrgNOCPhone:  +1-877-875-4311 
+OrgNOCEmail:  noc@cogentco.com
+OrgNOCRef:    https://rdap.arin.net/registry/entity/ZC108-ARIN
+
+OrgTechHandle: IPALL-ARIN
+OrgTechName:   IP Allocation
+OrgTechPhone:  +1-877-875-4311 
+OrgTechEmail:  ipalloc@cogentco.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/IPALL-ARIN
+
+OrgAbuseHandle: COGEN-ARIN
+OrgAbuseName:   Cogent Abuse
+OrgAbusePhone:  +1-877-875-4311 
+OrgAbuseEmail:  abuse@cogentco.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/COGEN-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.arin.net
+
+inetnum:      149.0.0.0 - 149.255.255.255
+organisation: Administered by ARIN
+status:       LEGACY
+
+whois:        whois.arin.net
+
+changed:      1993-05
+source:       IANA
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+
+#
+# Query terms are ambiguous.  The query is assumed to be:
+#     "n + 149.11.26.1"
+#
+# Use "?" to get help.
+#
+
+NetRange:       149.11.0.0 - 149.11.255.255
+CIDR:           149.11.0.0/16
+NetName:        COGENT-149-11-16
+NetHandle:      NET-149-11-0-0-1
+Parent:         NET149 (NET-149-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS174
+Organization:   PSINet, Inc. (PSI-1)
+RegDate:        1992-01-28
+Updated:        2016-02-04
+Comment:        Reassignment information for this block is
+Comment:        available at rwhois.cogentco.com port 4321
+Ref:            https://rdap.arin.net/registry/ip/149.11.0.0
+
+
+OrgName:        PSINet, Inc.
+OrgId:          PSI-1
+Address:        2450 N Street NW
+City:           Washington
+StateProv:      DC
+PostalCode:     20037
+Country:        US
+RegDate:        1992-01-28
+Updated:        2015-06-04
+Ref:            https://rdap.arin.net/registry/entity/PSI-1
+
+ReferralServer:  rwhois://rwhois.cogentco.com:4321
+
+OrgAbuseHandle: COGEN-ARIN
+OrgAbuseName:   Cogent Abuse
+OrgAbusePhone:  +1-877-875-4311 
+OrgAbuseEmail:  abuse@cogentco.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/COGEN-ARIN
+
+OrgNOCHandle: ZC108-ARIN
+OrgNOCName:   Cogent Communications
+OrgNOCPhone:  +1-877-875-4311 
+OrgNOCEmail:  noc@cogentco.com
+OrgNOCRef:    https://rdap.arin.net/registry/entity/ZC108-ARIN
+
+OrgTechHandle: IPALL-ARIN
+OrgTechName:   IP Allocation
+OrgTechPhone:  +1-877-875-4311 
+OrgTechEmail:  ipalloc@cogentco.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/IPALL-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.arin.net
+
+inetnum:      149.0.0.0 - 149.255.255.255
+organisation: Administered by ARIN
+status:       LEGACY
+
+whois:        whois.arin.net
+
+changed:      1993-05
+source:       IANA
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+
+#
+# Query terms are ambiguous.  The query is assumed to be:
+#     "n + 149.11.73.0"
+#
+# Use "?" to get help.
+#
+
+NetRange:       149.11.0.0 - 149.11.255.255
+CIDR:           149.11.0.0/16
+NetName:        COGENT-149-11-16
+NetHandle:      NET-149-11-0-0-1
+Parent:         NET149 (NET-149-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS174
+Organization:   PSINet, Inc. (PSI-1)
+RegDate:        1992-01-28
+Updated:        2016-02-04
+Comment:        Reassignment information for this block is
+Comment:        available at rwhois.cogentco.com port 4321
+Ref:            https://rdap.arin.net/registry/ip/149.11.0.0
+
+
+OrgName:        PSINet, Inc.
+OrgId:          PSI-1
+Address:        2450 N Street NW
+City:           Washington
+StateProv:      DC
+PostalCode:     20037
+Country:        US
+RegDate:        1992-01-28
+Updated:        2015-06-04
+Ref:            https://rdap.arin.net/registry/entity/PSI-1
+
+ReferralServer:  rwhois://rwhois.cogentco.com:4321
+
+OrgNOCHandle: ZC108-ARIN
+OrgNOCName:   Cogent Communications
+OrgNOCPhone:  +1-877-875-4311 
+OrgNOCEmail:  noc@cogentco.com
+OrgNOCRef:    https://rdap.arin.net/registry/entity/ZC108-ARIN
+
+OrgTechHandle: IPALL-ARIN
+OrgTechName:   IP Allocation
+OrgTechPhone:  +1-877-875-4311 
+OrgTechEmail:  ipalloc@cogentco.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/IPALL-ARIN
+
+OrgAbuseHandle: COGEN-ARIN
+OrgAbuseName:   Cogent Abuse
+OrgAbusePhone:  +1-877-875-4311 
+OrgAbuseEmail:  abuse@cogentco.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/COGEN-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.arin.net
+
+inetnum:      149.0.0.0 - 149.255.255.255
+organisation: Administered by ARIN
+status:       LEGACY
+
+whois:        whois.arin.net
+
+changed:      1993-05
+source:       IANA
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+
+#
+# Query terms are ambiguous.  The query is assumed to be:
+#     "n + 149.210.0.0"
+#
+# Use "?" to get help.
+#
+
+NetRange:       149.210.0.0 - 149.210.255.255
+CIDR:           149.210.0.0/16
+NetName:        RIPE-ERX-149-210-0-0
+NetHandle:      NET-149-210-0-0-1
+Parent:         NET149 (NET-149-0-0-0-0)
+NetType:        Early Registrations, Transferred to RIPE NCC
+OriginAS:       
+Organization:   RIPE Network Coordination Centre (RIPE)
+RegDate:        2010-11-03
+Updated:        2010-11-17
+Comment:        These addresses have been further assigned to users in
+Comment:        the RIPE NCC region. Contact information can be found in
+Comment:        the RIPE database at http://www.ripe.net/whois
+Ref:            https://rdap.arin.net/registry/ip/149.210.0.0
+
+ResourceLink:  https://apps.db.ripe.net/search/query.html
+ResourceLink:  whois.ripe.net
+
+
+OrgName:        RIPE Network Coordination Centre
+OrgId:          RIPE
+Address:        P.O. Box 10096
+City:           Amsterdam
+StateProv:      
+PostalCode:     1001EB
+Country:        NL
+RegDate:        
+Updated:        2013-07-29
+Ref:            https://rdap.arin.net/registry/entity/RIPE
+
+ReferralServer:  whois://whois.ripe.net
+ResourceLink:  https://apps.db.ripe.net/search/query.html
+
+OrgAbuseHandle: ABUSE3850-ARIN
+OrgAbuseName:   Abuse Contact
+OrgAbusePhone:  +31205354444 
+OrgAbuseEmail:  abuse@ripe.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE3850-ARIN
+
+OrgTechHandle: RNO29-ARIN
+OrgTechName:   RIPE NCC Operations
+OrgTechPhone:  +31 20 535 4444 
+OrgTechEmail:  hostmaster@ripe.net
+OrgTechRef:    https://rdap.arin.net/registry/entity/RNO29-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '149.210.0.0 - 149.210.63.255'
+
+% Abuse contact for '149.210.0.0 - 149.210.63.255' is 'abuse@cosmote.gr'
+
+inetnum:        149.210.0.0 - 149.210.63.255
+netname:        COSMOTE
+descr:          Cosmote Mobile Telecommunications S.A.
+descr:          Cosmote Internet Services
+descr:          APN internet
+country:        GR
+admin-c:        CIA19-RIPE
+tech-c:         CIA19-RIPE
+status:         ASSIGNED PA
+mnt-by:         COSMOTE-MNT
+created:        2012-07-02T11:09:36Z
+last-modified:  2012-07-02T11:09:36Z
+source:         RIPE
+
+role:           COSMOTE IP ADM
+address:        COSMOTE S.A.
+address:        Ikarou 1 & Agiou Louka 1
+address:        19002, Paiania, Athens
+address:        Greece
+admin-c:        ANAN-RIPE
+admin-c:        NK2937-RIPE
+tech-c:         GM11696-RIPE
+tech-c:         BYPE-RIPE
+mnt-by:         COSMOTE-MNT
+abuse-mailbox:  abuse@cosmote.gr
+nic-hdl:        CIA19-RIPE
+created:        2009-11-16T11:21:50Z
+last-modified:  2014-01-08T10:40:04Z
+source:         RIPE # Filtered
+
+% Information related to '149.210.0.0/18AS29247'
+
+route:          149.210.0.0/18
+descr:          Cosmote Mobile Telecommunication S.A.
+descr:          Cosmote Internet Services
+origin:         AS29247
+mnt-by:         COSMOTE-MNT
+created:        2016-10-16T12:26:09Z
+last-modified:  2016-10-16T12:26:09Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.92.6 (BLAARKOP)
+
+
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.arin.net
+
+inetnum:      149.0.0.0 - 149.255.255.255
+organisation: Administered by ARIN
+status:       LEGACY
+
+whois:        whois.arin.net
+
+changed:      1993-05
+source:       IANA
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+
+#
+# Query terms are ambiguous.  The query is assumed to be:
+#     "n + 149.3.179.0"
+#
+# Use "?" to get help.
+#
+
+NetRange:       149.3.0.0 - 149.3.255.255
+CIDR:           149.3.0.0/16
+NetName:        RIPE-ERX-149-3-0-0
+NetHandle:      NET-149-3-0-0-1
+Parent:         NET149 (NET-149-0-0-0-0)
+NetType:        Early Registrations, Transferred to RIPE NCC
+OriginAS:       
+Organization:   RIPE Network Coordination Centre (RIPE)
+RegDate:        2010-11-03
+Updated:        2010-11-17
+Comment:        These addresses have been further assigned to users in
+Comment:        the RIPE NCC region. Contact information can be found in
+Comment:        the RIPE database at http://www.ripe.net/whois
+Ref:            https://rdap.arin.net/registry/ip/149.3.0.0
+
+ResourceLink:  https://apps.db.ripe.net/search/query.html
+ResourceLink:  whois.ripe.net
+
+
+OrgName:        RIPE Network Coordination Centre
+OrgId:          RIPE
+Address:        P.O. Box 10096
+City:           Amsterdam
+StateProv:      
+PostalCode:     1001EB
+Country:        NL
+RegDate:        
+Updated:        2013-07-29
+Ref:            https://rdap.arin.net/registry/entity/RIPE
+
+ReferralServer:  whois://whois.ripe.net
+ResourceLink:  https://apps.db.ripe.net/search/query.html
+
+OrgTechHandle: RNO29-ARIN
+OrgTechName:   RIPE NCC Operations
+OrgTechPhone:  +31 20 535 4444 
+OrgTechEmail:  hostmaster@ripe.net
+OrgTechRef:    https://rdap.arin.net/registry/entity/RNO29-ARIN
+
+OrgAbuseHandle: ABUSE3850-ARIN
+OrgAbuseName:   Abuse Contact
+OrgAbusePhone:  +31205354444 
+OrgAbuseEmail:  abuse@ripe.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE3850-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2019, American Registry for Internet Numbers, Ltd.
+#
+
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '149.3.179.0 - 149.3.179.255'
+
+% Abuse contact for '149.3.179.0 - 149.3.179.255' is 'abuse@seabone.net'
+
+inetnum:        149.3.179.0 - 149.3.179.255
+netname:        AKAMAI-OVER-SEABONE
+descr:          Akamai Servers in Telecom Italia International Backbone
+country:        GR
+admin-c:        NARA1-RIPE
+tech-c:         NARA1-RIPE
+status:         ASSIGNED PA
+remarks:        ***************************************************************
+remarks:        Akamai serves the images and streaming content for many of the
+remarks:        most popular Internet web-sites. When you connect to a web-site
+remarks:        your browser first contacts the content provider and downloads
+remarks:        an html file. This file contains embedded URLs that tell your
+remarks:        browser where to find all the objects necessary to finish
+remarks:        displaying the page. In the case of an "Akamaized" site, these
+remarks:        URLs point to the Akamai Network. Next, your browser makes
+remarks:        connections to the URLs to obtain the images or streaming
+remarks:        content. Again, for an "Akamaized" site, your browser will
+remarks:        contact an Akamai server to obtain the requested items.
+remarks:        Generally a TCP server listens on a well-known port < 1023 (for
+remarks:        example port 80 for HTTP), and a TCP client connects from a
+remarks:        port > 1023 assigned by the operating system. So a connection
+remarks:        from port 80 of the Akamai server to a high numbered port on
+remarks:        your machine, is a normal HTTP transaction.
+remarks:        If you'd like to learn more visit the FAQ at
+remarks:        http://www.akamai.com/en/html/misc/support_faq.html
+remarks:        ***************************************************************
+remarks:        >>> IP range assigned under AW <<<
+mnt-by:         AS6762-MNT
+created:        2012-08-08T06:48:51Z
+last-modified:  2012-08-08T06:48:51Z
+source:         RIPE # Filtered
+
+role:           Network Architecture Role Account
+address:        Akamai Technologies
+address:        8 Cambridge Center
+address:        Cambridge, MA 02142
+phone:          +1-617-938-3130
+abuse-mailbox:  abuse@akamai.com
+admin-c:        NF1714-RIPE
+admin-c:        CKAK-RIPE
+tech-c:         NF1714-RIPE
+tech-c:         JP1944-RIPE
+tech-c:         APB15-RIPE
+tech-c:         CKAK-RIPE
+tech-c:         TBAK-RIPE
+tech-c:         NB782-RIPE
+tech-c:         RM4844-RIPE
+tech-c:         JZ2012-RIPE
+nic-hdl:        NARA1-RIPE
+mnt-by:         AKAM1-RIPE-MNT
+created:        2002-03-06T09:02:17Z
+last-modified:  2017-07-12T16:18:37Z
+source:         RIPE # Filtered
+
+% Information related to '149.3.176.0/21AS6762'
+
+route:          149.3.176.0/21
+descr:          SEA-BONE
+origin:         AS6762
+mnt-by:         AS6762-MNT
+mnt-lower:      AS6762-MNT
+mnt-routes:     AS6762-MNT
+created:        2011-07-25T07:53:01Z
+last-modified:  2011-07-25T07:53:01Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.92.6 (ANGUS)
+
+
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      103.0.0.0 - 103.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2011-02
+source:       IANA
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.211.144.0 - 103.211.147.255'
+
+% Abuse contact for '103.211.144.0 - 103.211.147.255' is 'abuse@digitalnetwork.online'
+
+inetnum:        103.211.144.0 - 103.211.147.255
+netname:        DIGITALNETWORK-BD
+descr:          Mohammad Ehteshamul Haque t/a Digital Network
+country:        BD
+org:            ORG-DN2-AP
+admin-c:        DNA18-AP
+tech-c:         DNA18-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-DIGITALNETWORK-BD
+mnt-routes:     MAINT-DIGITALNETWORK-BD
+mnt-irt:        IRT-DIGITALNETWORK-BD
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+last-modified:  2017-08-30T07:16:07Z
+source:         APNIC
+
+irt:            IRT-DIGITALNETWORK-BD
+address:        27, Nazimuddin Road, Dhaka Dhaka 1100
+e-mail:         abuse@digitalnetwork.online
+abuse-mailbox:  abuse@digitalnetwork.online
+admin-c:        DNA18-AP
+tech-c:         DNA18-AP
+auth:           # Filtered
+mnt-by:         MAINT-DIGITALNETWORK-BD
+last-modified:  2016-03-15T05:32:56Z
+source:         APNIC
+
+organisation:   ORG-DN2-AP
+org-name:       Digital Network
+country:        BD
+address:        27, Nazimuddin Road
+phone:          +8801746707202
+e-mail:         abuse@digitalnetwork.online
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2017-08-20T22:56:46Z
+source:         APNIC
+
+role:           Digital Network administrator
+address:        27, Nazimuddin Road, Dhaka Dhaka 1100
+country:        BD
+phone:          +8801746707202
+fax-no:         +8801746707202
+e-mail:         abuse@digitalnetwork.online
+admin-c:        DNA18-AP
+tech-c:         DNA18-AP
+nic-hdl:        DNA18-AP
+mnt-by:         MAINT-DIGITALNETWORK-BD
+last-modified:  2016-03-15T05:32:54Z
+source:         APNIC
+
+% Information related to '103.211.144.0/22AS135163'
+
+route:          103.211.144.0/22
+descr:          DIGITALNETWORK-BD
+origin:         AS135163
+mnt-by:         MAINT-DIGITALNETWORK-BD
+last-modified:  2016-03-18T23:28:14Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-UK3)
+
+
