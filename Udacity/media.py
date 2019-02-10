@@ -3,5 +3,5 @@ class Movie():
         self.tile=movie_title
         self.storyline=movie_storyline
         self.image_url=movie_image
-        self_movie_url=movie_url
+        self.movie_url=movie_url
 
